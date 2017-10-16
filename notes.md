@@ -13,4 +13,6 @@
 	- [Mozilla Get involved with Web](https://wiki.mozilla.org/Webdev/GetInvolved)
 	- [Writing documentation for Mozilla Docs](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction)
 	- [Firefox getting in touch w/ dev tools community](http://firefox-dev.tools/#getting-in-touch)
+	- [Social Contribution Mozilla](https://wiki.mozilla.org/Support/Social)
+	
 	
