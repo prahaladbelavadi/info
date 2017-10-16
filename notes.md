@@ -17,4 +17,5 @@
 	- [Social Contribution Mozilla](https://wiki.mozilla.org/Support/Social)
 	- [Quality testing and assurance](https://quality.mozilla.org/teams/test-engineering/)
 	- [Open Design @mozilla](https://blog.mozilla.org/OpenDesign/)
-	
+- [Mozilla Internal Style guide](http://mozweb.readthedocs.io/en/latest/reference/python-style.html)
+
