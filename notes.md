@@ -5,8 +5,9 @@
 	- [dev hints - es6](https://devhints.io/es6)
 	- [Babel learn es2015](http://babeljs.io/learn-es2015/)
 
-- Internships:
+- Open Source Internships: 
 	- [Outreachy Mozilla - deadline: october 22nd 2017 ](https://outreachy.gnome.org)
+	- [Outreachy How to contribute](https://www.outreachy.org/apply/make-contributions/)
 	- [Chaincode Residency Program](https://medium.com/@ChaincodeLabs/chaincode-residency-2018-26cd8a65d5f7)
 	- [Mozilla Projects to contribute to](https://whatcanidoformozilla.org)
 	- [Google open source community](https://opensource.google.com/community/)
@@ -16,5 +17,4 @@
 	- [Social Contribution Mozilla](https://wiki.mozilla.org/Support/Social)
 	- [Quality testing and assurance](https://quality.mozilla.org/teams/test-engineering/)
 	- [Open Design @mozilla](https://blog.mozilla.org/OpenDesign/)
-	
 	
