@@ -18,5 +18,8 @@
 	- [Quality testing and assurance](https://quality.mozilla.org/teams/test-engineering/)
 	- [Open Design @mozilla](https://blog.mozilla.org/OpenDesign/)
 - [Mozilla Internal Style guide](http://mozweb.readthedocs.io/en/latest/reference/python-style.html)
-- [Crypto.js - npm package](https://www.npmjs.com/package/crypto-js)
+- Cryptography
+	- [Crypto.js - npm package](https://www.npmjs.com/package/crypto-js)
+- Books:
+	- [Data Structures and Algorithms in JS book](https://github.com/miguellgt/books/blob/master/java-script/Data%20Structures%20and%20Algorithms.pdf)
 
