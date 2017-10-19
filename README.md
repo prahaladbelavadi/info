@@ -2,8 +2,6 @@
 Public record of Prahalad Belavadi
 
 Name: Prahalad Belavadi
-Nationality: USA
-Name of the institution currently associated with: Self
 
 > Designation: 
 - Web developer 
@@ -17,31 +15,56 @@ Name of the institution currently associated with: Self
 - Blockchain developer 
 
 > Blogs:
-    - Takeaway-chuck
-    - Blockchain Fanatic
-    
-> Teaching experiences:
+- [Quora](https://www.quora.com/profile/Belavadi-Prahalad)
+- [Medium](https://medium.com/@prahaladbelavadi)
+- [Takeaway-chuck](https://medium.com/takeaway-chuck/)
+- [Blockchain Fanatic](https://medium.com/blockchain-fanatic)
 
+	
+> Teaching experiences:
+- Angular JS
+- Bitcoin - Blockchain
+- Cryptography
+- Python
+- Data Science
 
 > Skills:
-
-
-
-> Hobbies:
+- HTML
+- CSS
+- Bootstrap
+- Jquery
+- Sass/SCSS
+- Javascript
+- Angular JS
+- Node JS
+- Python
+- Mongo DB
+- Bigchain DB
+- Git version control
+- SQL
+- Visualization
+- UI / UX testing
 	
-	- Playing Football
-	- Swimming
-	- Playing Tennis
-	- Reading Books
-	- Watching Game of Thrones
+> Hobbies:
+
+- Playing Football
+- Swimming
+- Playing Tennis
+- Reading Books
+- Watching Game of Thrones
 
 > Interests:
-    - Blockchain
-    - Economics
-    - Self improvement
+- Blockchain
+- Economics
+- Self improvement
+- NLP
+- Stoicism
+- Fitness
 
-Contact:
-    - [Facebook](www.facebook.com/prahaladbelavadi)
-    - [Linkedin](https://www.linkedin.com/in/prahaladbelavadi)
-    - [Email](mailto:prahaladbelavadi@gmail.com)
-    - Mobile
+> Contact:
+- [Twitter](https://twitter.com/prahaladbelavad)
+- [Facebook](www.facebook.com/prahaladbelavadi)
+- [Linkedin](https://www.linkedin.com/in/prahaladbelavadi)
+- [Email](mailto:prahaladbelavadi@gmail.com)   
+
+	
