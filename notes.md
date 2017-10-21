@@ -23,3 +23,4 @@
 - Books:
 	- [Data Structures and Algorithms in JS book](https://github.com/miguellgt/books/blob/master/java-script/Data%20Structures%20and%20Algorithms.pdf)
 
+- Need to assemble priority mandatory tasks
