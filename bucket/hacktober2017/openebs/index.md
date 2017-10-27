@@ -26,3 +26,6 @@
 - [Open ebs Architecture and design](https://github.com/openebs/openebs/blob/master/contribute/design/OpenEBS%20Architecture%20and%20Design.pdf)
 - [How to write Go code](https://golang.org/doc/code.html)
 - [ansible - IT automation](https://www.ansible.com)
+- [read and write permissions- python](https://docs.python.org/2/tutorial/inputoutput.html)
+	- [Python files tutorialspoint file permissions](https://www.tutorialspoint.com/python/python_files_io.htm)
+	-
