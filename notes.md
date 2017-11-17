@@ -23,4 +23,7 @@
 - Books:
 	- [Data Structures and Algorithms in JS book](https://github.com/miguellgt/books/blob/master/java-script/Data%20Structures%20and%20Algorithms.pdf)
 
+- Try:
+	- [Feathers chatapplication](https://docs.feathersjs.com/guides/chat/readme.html)
+
 - Need to assemble priority mandatory tasks
