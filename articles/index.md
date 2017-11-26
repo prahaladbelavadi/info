@@ -13,4 +13,4 @@
 - [📝](./what-do-you-bring-to-the-table) [What do you bring to the table ?]
 - [📝](./a-conversation-on-priorities)[A conversation on priorities](https://medium.com/@prahaladbelavadi/a-conversation-about-priorities-ebb8bfc46299)
 - [📝](./what-is-my-role-on-earth)[What is my role on earth ?](https://medium.com/@prahaladbelavadi/what-is-my-role-on-earth-a133567dff12)
--
+- [Blockchain and digital certificates](https://medium.com/blockchain-fanatic/blockchain-and-digital-certificates-d9d6f6ad9008)
