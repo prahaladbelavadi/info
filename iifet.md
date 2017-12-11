@@ -34,6 +34,10 @@
 - Stay physically and mentally sound. You're more efficient when fit.
 - Build something that can scale. Anything that cannot scale has limited scope.
 
+# Personal:
+- Use a notebook to make a list of stuff at morning that need to be accomplished by the day's end(helps you stay focussed and on track for the rest of the day without getting distracted.)
+
+
 ## Ideals
 - You are the average of the five people you surround yourself with.
 
