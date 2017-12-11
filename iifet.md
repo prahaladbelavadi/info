@@ -36,6 +36,7 @@
 
 # Personal:
 - Use a notebook to make a list of stuff at morning that need to be accomplished by the day's end(helps you stay focussed and on track for the rest of the day without getting distracted.)
+- There are much more developer tools and better documentation written for macs than there are for windows.(Legacy versions, path management and lagging isn't worth enduring.)
 
 
 ## Ideals
