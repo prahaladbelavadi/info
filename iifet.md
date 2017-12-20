@@ -43,5 +43,28 @@
 - You are the average of the five people you surround yourself with.
 
 ## Tips
+
 - Buy a Mac not windows
     - [Sizeup](http://www.irradiatedsoftware.com/sizeup/)
+    Setting up SSH Keys
+    Setup GPG toolset
+    Setting up GPG keys
+    Download Git
+    Download homebrew
+    Install Anaconda
+    Install Jupyter Notebook
+    Install NodeJS
+    Install Atom
+    Install linter, platformio for Atom
+    Install Spotify
+    Install Utorrent
+    Install Calibre
+    Install Xcode Devel
+    Install PostMan
+    Install Webservers
+    ITerm
+    Docker
+    Rescue time
+    Download Outlook
+    Setup an Apple ID
+    Sizeup
