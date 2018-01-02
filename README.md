@@ -9,7 +9,7 @@ Public record of Prahalad Belavadi
 - [Articles](./article)
 - [bucket](./bucket)
 - [Resources](./resources)
-
+- [Ideas](https://github.com/prahaladbelavadi/ideas)
 
 > Contact:
 - [Form](https://prahaladbelavadi.typeform.com/to/Zt7zWD)
