@@ -9,7 +9,7 @@ Name: Prahalad Belavadi
 	- Node JS
 	- Mongo DB
 	- Python
-- Cryptographer 
+- Applied Cryptography 
 - [Economics](https://www.credential.net/zyhp5zow)
 - [Data Science](https://mitxpro.mit.edu/certificates/e1b779a9b97d49f2a25cec5c73a92f10)
 - Blockchain developer 
@@ -43,7 +43,6 @@ Name: Prahalad Belavadi
 - Git version control
 - SQL
 - Visualization
-- UI / UX testing
 	
 > Hobbies:
 
@@ -56,6 +55,7 @@ Name: Prahalad Belavadi
 > Interests:
 - Blockchain
 - Economics
+- Design
 - Self improvement
 - NLP
 - Stoicism
