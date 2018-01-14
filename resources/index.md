@@ -20,7 +20,15 @@ A comprehensive list of resources.
 	- [Zastrin Solidity](https://www.zastrin.com)
 	- [Blockgeeks Solidity](https://blockgeeks.com/guides/how-to-learn-solidity/)
 	- [Learn solidity in X minutes](https://learnxinyminutes.com/docs/solidity/)
-	- [Solidity readthedocs.io](https://solidity.readthedocs.io/en/develop/)
+	- [Solidity readthedocs.io](https://solidity.readthedocs.io/en/develop/)	
+	- [Remix Ethereum Web](https://remix.ethereum.org/)
+	- [Learning Ethereum Solidity](https://ethereum.network/learn)
+	- [Building CryptoZombies](https://cryptozombies.io/)
+	- [Youtube Tutorial on Solidity](https://www.youtube.com/playlist?list=PLQeiVDgMaJcWnAZLElXKLZhS5a71Sxzw0)
+	- [Tutorial Ethereum Smart Contracts Solidity](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners)
+	- [Ethereum Voting dapp tutorial](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
+	- [Official Ethereum Docs](https://solidity.readthedocs.io/en/develop/)
+	
 	
 > Bitcoin
 	- [Mastering Bitcoin](https://github.com/belavadi/bitcoinbook)
