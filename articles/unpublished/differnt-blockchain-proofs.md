@@ -1,3 +1,6 @@
+Originally on [medium](https://medium.com/blockchain-fanatic/proof-of-work-proof-of-stake-and-proof-of-burn-6823eac2776e) 
+
+
 ---
 
 Proof of Work, Proof of Stake and Proof of Burn
