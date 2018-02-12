@@ -20,10 +20,18 @@ A sure fire precursor of the market about to lose shape is when everyone tries t
 This is beyond just inflation or deflation.
 In our economic world, different games are designed daily.
 There’s always a correction when things do not function as they were intended to.
+There does exist a factor of time.
+How long before this correction occurs ?
+Will it happen within our lifetimes or not ?
 
 
 ---
 
- 
-
 I know people that worked for companies whose shares were being sold from door to door by the founder.
+Today, people have the ability to fundraise by sitting at the comforts of their own homes.
+People make use of their online presence to get people to fund them for whatever purposes they claim to need funds for.
+People will fundraise everyday across the globe. People will fund and exhibit nature to spend much more than ever before. Ideas and thoughts that can captivate the masses' minds will enamor most respect and eventually raise most funds. Effective marketing and sales skills will play a defining role in this sector.
+
+Given the adoption of cryptocurrencies for fundraising, fundraisals for tech products will follow the [Technonolgy adoption cycle](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle).
+
+There will exist charlatans and scam artists. People that display proof of work will garner respect of the masses and exhibit reliable traits. Network effects can be both positive and negative.
