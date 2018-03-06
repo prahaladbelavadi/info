@@ -18,8 +18,10 @@
 	- [Quality testing and assurance](https://quality.mozilla.org/teams/test-engineering/)
 	- [Open Design @mozilla](https://blog.mozilla.org/OpenDesign/)
 - [Mozilla Internal Style guide](http://mozweb.readthedocs.io/en/latest/reference/python-style.html)
-- Cryptography
+- Cryptography/security
 	- [Crypto.js - npm package](https://www.npmjs.com/package/crypto-js)
+	- [Awesome Security](https://github.com/sbilly/awesome-security)
+	- [Hacker101](https://www.hacker101.com/]
 - Books:
 	- [Data Structures and Algorithms in JS book](https://github.com/miguellgt/books/blob/master/java-script/Data%20Structures%20and%20Algorithms.pdf)
 
@@ -27,3 +29,14 @@
 	- [Feathers chatapplication](https://docs.feathersjs.com/guides/chat/readme.html)
 
 - Need to assemble priority mandatory tasks
+
+### Safety:
+- https://ssd.eff.org/en#index
+
+### Contributing:
+- [Write for Hackernoon](http://www.amipublications.com/hacker-noon), [1](https://hackernoon.com/about)
+
+
+### Interesting Links:
+- [Building very own Public Key infrastructure](https://blog.cloudflare.com/how-to-build-your-own-public-key-infrastructure/)
+- [Understanding Keybase file system](https://keybase.io/docs/kbfs/understanding_kbfs)
