@@ -30,6 +30,8 @@
 
 - Need to assemble priority mandatory tasks
 
+- [Setup Mail server](https://www.digitalocean.com/community/tutorials/how-to-configure-a-mail-server-using-postfix-dovecot-mysql-and-spamassassin)
+
 ### Safety:
 - https://ssd.eff.org/en#index
 
