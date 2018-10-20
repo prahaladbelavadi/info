@@ -42,3 +42,8 @@
 ### Interesting Links:
 - [Building very own Public Key infrastructure](https://blog.cloudflare.com/how-to-build-your-own-public-key-infrastructure/)
 - [Understanding Keybase file system](https://keybase.io/docs/kbfs/understanding_kbfs)
+
+
+
+### MOOC Notes
+- [Harvard X contract law course](https://prahaladbelavadi.github.io/contract-law/notes)
