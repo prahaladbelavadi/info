@@ -47,7 +47,7 @@
 
 ### Courses to finish:
 - https://www.udemy.com/hacking-complete/
-- 
+- https://github.com/ossu/computer-science/blob/dev/extras/courses.md
 
 ### MOOC Notes
 - [Harvard X contract law course](https://prahaladbelavadi.github.io/contract-law/notes)
