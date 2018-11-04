@@ -27,6 +27,8 @@
 
 - Try:
 	- [Feathers chatapplication](https://docs.feathersjs.com/guides/chat/readme.html)
+	- [Building extensions Google](https://developer.chrome.com/extensions/getstarted)
+	- [Extensions mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
 
 - Need to assemble priority mandatory tasks
 
