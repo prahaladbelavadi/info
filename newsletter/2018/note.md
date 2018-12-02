@@ -1,0 +1,4 @@
+- https://medium.com/@hristovbz/corrections-and-recoveries-1d8222379780
+- https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-setup-freecodecamp-locally.md
+- https://www.tradingwithrayner.com/forex-risk-management/
+- https://www.tradingwithrayner.com/professional-trader/
