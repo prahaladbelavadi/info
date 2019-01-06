@@ -1,0 +1,16 @@
+- http://www.mit.edu/~yandros/doc/command.txt
+- https://bitcoinstrings.com/blk00256.txt
+- https://en.wikipedia.org/wiki/Esperanto
+- https://en.wikipedia.org/wiki/Constructed_language
+- https://en.wikipedia.org/wiki/International_auxiliary_language
+- https://en.wikipedia.org/wiki/Lernu!
+- https://en.wikipedia.org/wiki/Esperanto
+- https://en.wikipedia.org/wiki/Autodidacticism
+- http://www.genekeyes.com/Dr_Esperanto.html
+- https://en.wikisource.org/wiki/Dr._Esperanto%27s_International_Language/Introduction
+- https://https:/lernu.net/en
+- http://esperanto.net/en/
+- http://esperanto.net/en/learn-esperanto/
+- https://en.wikipedia.org/wiki/Anonymous_(group)
+- https://en.wikipedia.org/wiki/Internet_activism
+- 
