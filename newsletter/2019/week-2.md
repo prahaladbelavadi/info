@@ -1,3 +1,4 @@
 - https://datatracker.ietf.org/doc/rfc3935/
 - https://ietf.org
 - https://en.wikipedia.org/wiki/Basic_access_authentication
+- https://tools.ietf.org/html/rfc7617
