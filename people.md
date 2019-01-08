@@ -16,3 +16,5 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://ar.to/
 - https://www.cs.columbia.edu/~smb/informal-bio.html
 - https://en.wikipedia.org/wiki/Ben_Laurie
+- https://datatracker.ietf.org/person/Alissa%20Cooper
+- https://datatracker.ietf.org/person/Ted%20Hardie
