@@ -3,3 +3,9 @@
 - https://en.wikipedia.org/wiki/Basic_access_authentication
 - https://tools.ietf.org/html/rfc7617
 - http://www.mit.edu/afs.new/sipb/project/pgp/doc/pgpdoc2.txt
+- http://tldp.org/guides.html
+- https://en.wikipedia.org/wiki/Rubberhose_(file_system)
+- http://online.offshore.com.ai/arms-trafficker/
+- http://online.offshore.com.ai/arms-trafficker/mr.president
+- https://en.wikipedia.org/wiki/Federal_Register
+- https://github.com/myles/awesome-static-generators
