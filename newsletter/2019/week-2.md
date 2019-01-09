@@ -2,3 +2,4 @@
 - https://ietf.org
 - https://en.wikipedia.org/wiki/Basic_access_authentication
 - https://tools.ietf.org/html/rfc7617
+- http://www.mit.edu/afs.new/sipb/project/pgp/doc/pgpdoc2.txt
