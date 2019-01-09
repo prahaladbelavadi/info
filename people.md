@@ -25,3 +25,6 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://en.wikipedia.org/wiki/Ian_Goldberg
 - https://en.wikipedia.org/wiki/Jim_Bell
 - https://en.wikipedia.org/wiki/Derek_Atkins
+- https://en.wikipedia.org/wiki/Peter_Gutmann_(computer_scientist): https://www.cs.auckland.ac.nz/~pgut001/
+- Branko Lankeste
+- Abhilash Raj: https://mail.python.org/pipermail/mailman-announce/2017-November/000232.html
