@@ -18,3 +18,10 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://en.wikipedia.org/wiki/Ben_Laurie
 - https://datatracker.ietf.org/person/Alissa%20Cooper
 - https://datatracker.ietf.org/person/Ted%20Hardie
+- Tim C may
+- Eric Hughes : hughes@soda.berkeley.edu>;https://www.activism.net/cypherpunk/manifesto.html
+- Phil Zimmerman: PGP : https://philzimmermann.com/EN/contact/index.html
+- https://en.wikipedia.org/wiki/Mark_Horowitz
+- https://en.wikipedia.org/wiki/Ian_Goldberg
+- https://en.wikipedia.org/wiki/Jim_Bell
+- https://en.wikipedia.org/wiki/Derek_Atkins
