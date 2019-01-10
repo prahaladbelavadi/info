@@ -9,3 +9,6 @@
 - http://online.offshore.com.ai/arms-trafficker/mr.president
 - https://en.wikipedia.org/wiki/Federal_Register
 - https://github.com/myles/awesome-static-generators
+- https://modeling-languages.com/web-based-modeling-tools-uml-er-bpmn/
+- https://modeling-languages.com/modeling-web-api-comparing/
+- https://www.w3.org/TR/2004/REC-webarch-20041215/
