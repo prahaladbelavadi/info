@@ -13,3 +13,4 @@
 - https://modeling-languages.com/modeling-web-api-comparing/
 - https://www.w3.org/TR/2004/REC-webarch-20041215/
 - https://prism-break.org
+- http://cognitivemedium.com/srs-mathematics
