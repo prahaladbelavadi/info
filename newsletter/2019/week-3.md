@@ -1,1 +1,2 @@
 - https://scotch.io/tutorials/the-ins-and-outs-of-token-based-authentication
+- https://tools.ietf.org/html/rfc7519
