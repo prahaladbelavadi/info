@@ -1,2 +1,3 @@
 - https://scotch.io/tutorials/the-ins-and-outs-of-token-based-authentication
 - https://tools.ietf.org/html/rfc7519
+- https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46
