@@ -10,3 +10,4 @@ A list of places I can apply to:
 - [x] Coinbase
 - [] Stickermule
 - [] https://www.indeed.com/viewjob?jk=84c573f03aeee6d8&tk=1d19is5rvb8mb802&from=serp&vjs=3
+- [] http://www.gnu.org/server/tasks.html
