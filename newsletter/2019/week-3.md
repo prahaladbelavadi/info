@@ -3,4 +3,4 @@
 - https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46
 - http://www.gnu.org/philosophy/javascript-trap.html
 - https://en.wikipedia.org/wiki/Copyleft
-- 
+- http://yieldthedog.github.io/about/
