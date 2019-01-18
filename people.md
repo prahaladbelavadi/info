@@ -18,6 +18,7 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://en.wikipedia.org/wiki/Ben_Laurie
 - https://datatracker.ietf.org/person/Alissa%20Cooper
 - https://datatracker.ietf.org/person/Ted%20Hardie
+- https://en.wikipedia.org/wiki/Chelsea_Manning
 - Tim C may
 - Eric Hughes : hughes@soda.berkeley.edu>;https://www.activism.net/cypherpunk/manifesto.html
 - Phil Zimmerman: PGP : https://philzimmermann.com/EN/contact/index.html
@@ -32,3 +33,8 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://en.wikipedia.org/wiki/Lo%C3%AFc_Dachary
 - https://en.wikipedia.org/wiki/Eben_Moglen
 - https://en.wikipedia.org/wiki/Jeremy_Allison
+- https://en.wikipedia.org/wiki/Kevin_Poulsen
+- https://insecure.org/fyodor/
+- https://twitter.com/xychelsea
+- glen greenwald
+- Eric Schmiedl: https://www.youtube.com/watch?v=mkW3N-ufPe4
