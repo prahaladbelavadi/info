@@ -8,3 +8,8 @@
 - https://en.wikipedia.org/wiki/ORCID
 - https://en.wikipedia.org/wiki/Defective_by_Design
 - https://en.wikipedia.org/wiki/SecureDrop
+- https://en.wikisource.org/wiki/Notes_from_Underground
+- http://www.textfiles.com/magazines/CUD/cud0887.txt
+- https://interviews.slashdot.org/story/03/05/30/1148235/fyodor-answers-your-network-security-questions
+- https://sectools.org/
+- https://en.wikipedia.org/wiki/Summercon
