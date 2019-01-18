@@ -38,3 +38,4 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://twitter.com/xychelsea
 - glen greenwald
 - Eric Schmiedl: https://www.youtube.com/watch?v=mkW3N-ufPe4
+- https://en.wikipedia.org/wiki/Scott_Bradner
