@@ -29,3 +29,6 @@ I do understand that an hour of their time is valued differently than I choose t
 - Branko Lankeste
 - Abhilash Raj: https://mail.python.org/pipermail/mailman-announce/2017-November/000232.html
 - Richard Stallman (RMS)
+- https://en.wikipedia.org/wiki/Lo%C3%AFc_Dachary
+- https://en.wikipedia.org/wiki/Eben_Moglen
+- https://en.wikipedia.org/wiki/Jeremy_Allison
