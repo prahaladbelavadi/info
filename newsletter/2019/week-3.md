@@ -4,3 +4,4 @@
 - http://www.gnu.org/philosophy/javascript-trap.html
 - https://en.wikipedia.org/wiki/Copyleft
 - http://yieldthedog.github.io/about/
+- https://github.com/mailvelope/keyserver
