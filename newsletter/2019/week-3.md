@@ -6,3 +6,5 @@
 - http://yieldthedog.github.io/about/
 - https://github.com/mailvelope/keyserver
 - https://en.wikipedia.org/wiki/ORCID
+- https://en.wikipedia.org/wiki/Defective_by_Design
+- https://en.wikipedia.org/wiki/SecureDrop
