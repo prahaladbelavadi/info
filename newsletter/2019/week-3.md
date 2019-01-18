@@ -13,3 +13,12 @@
 - https://interviews.slashdot.org/story/03/05/30/1148235/fyodor-answers-your-network-security-questions
 - https://sectools.org/
 - https://en.wikipedia.org/wiki/Summercon
+- https://en.wikipedia.org/wiki/Hackerspace
+- Zero Filling- 
+
+-Books:
+  - Open Sources: Voices from the Open Source Revolution
+  
+  - https://tools.ietf.org/html/rfc2119
+  - https://tools.ietf.org/html/rfc5802
+  - https://en.wikipedia.org/wiki/Phrack
