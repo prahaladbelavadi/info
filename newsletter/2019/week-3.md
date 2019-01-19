@@ -15,6 +15,8 @@
 - https://en.wikipedia.org/wiki/Summercon
 - https://en.wikipedia.org/wiki/Hackerspace
 - Zero Filling- 
+- Compressed split file
+- http://jeffe.cs.illinois.edu/teaching/algorithms/
 
 -Books:
   - Open Sources: Voices from the Open Source Revolution
