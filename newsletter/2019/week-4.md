@@ -1,0 +1,4 @@
+- https://inteltechniques.com/buscador/
+- Books
+  - open source intelligence techniques
+  - Hiding from the internet
