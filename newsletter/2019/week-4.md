@@ -2,3 +2,4 @@
 - Books
   - open source intelligence techniques
   - Hiding from the internet
+- Defcon Talk on social  engineering: https://www.youtube.com/watch?v=mkW3N-ufPe4
