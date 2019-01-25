@@ -19,3 +19,4 @@ Very interesting stuff
 - https://stackoverflow.com/questions/2323768/how-does-the-amazon-recommendation-feature-work
 - https://patents.google.com/patent/US7113917
 - https://en.wikipedia.org/wiki/Affinity_analysis
+- http://blog.samaltman.com/how-to-be-successful
