@@ -11,3 +11,11 @@
 - https://github.com/mailvelope/keyserver
 - https://en.wikipedia.org/wiki/Web_of_trust
 - https://mherman.org/blog/social-authentication-with-passport-dot-js/
+
+Very interesting stuff
+- https://www.roblox.com/
+- https://bitcoinmagazine.com/articles/taproot-coming-what-it-and-how-it-will-benefit-bitcoin/
+- https://www.networkdefense.io/library/effective-information-security-writing/55514/about/
+- https://stackoverflow.com/questions/2323768/how-does-the-amazon-recommendation-feature-work
+- https://patents.google.com/patent/US7113917
+- https://en.wikipedia.org/wiki/Affinity_analysis
