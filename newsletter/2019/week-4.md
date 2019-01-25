@@ -10,3 +10,4 @@
 
 - https://github.com/mailvelope/keyserver
 - https://en.wikipedia.org/wiki/Web_of_trust
+- https://mherman.org/blog/social-authentication-with-passport-dot-js/
