@@ -23,3 +23,6 @@ Very interesting stuff
 
 
 - https://ecorner.stanford.edu/video/delivering-innovation-for-the-enterprise-entire-talk/
+
+- https://tools.ietf.org/html/rfc6979
+- https://tools.ietf.org/html/bcp78
