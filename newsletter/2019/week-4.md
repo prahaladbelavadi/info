@@ -20,3 +20,6 @@ Very interesting stuff
 - https://patents.google.com/patent/US7113917
 - https://en.wikipedia.org/wiki/Affinity_analysis
 - http://blog.samaltman.com/how-to-be-successful
+
+
+- https://ecorner.stanford.edu/video/delivering-innovation-for-the-enterprise-entire-talk/
