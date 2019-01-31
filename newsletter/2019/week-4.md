@@ -26,3 +26,4 @@ Very interesting stuff
 
 - https://tools.ietf.org/html/rfc6979
 - https://tools.ietf.org/html/bcp78
+- https://teachingexcellence.mit.edu/inspiring-teachers/amar-bose-6-312-lecture-01-introduction
