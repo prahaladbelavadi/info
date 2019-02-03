@@ -1,1 +1,3 @@
 - Google Io talk on funding startups with VCs: https://www.youtube.com/watch?v=15iWltPLuPY
+- https://inst.eecs.berkeley.edu/~cs161/sp19/
+- https://www.reddit.com/r/cscareerquestions/comments/4v2gzg/how_rare_is_an_internship_position_in_cyber/
