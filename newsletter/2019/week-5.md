@@ -1,3 +1,8 @@
 - Google Io talk on funding startups with VCs: https://www.youtube.com/watch?v=15iWltPLuPY
 - https://inst.eecs.berkeley.edu/~cs161/sp19/
 - https://www.reddit.com/r/cscareerquestions/comments/4v2gzg/how_rare_is_an_internship_position_in_cyber/
+- https://en.wikipedia.org/wiki/Software_design_pattern
+- https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+- https://en.wikipedia.org/wiki/Dependency_injection
+- https://en.wikipedia.org/wiki/Design_Patterns
+- https://fs.blog/2013/12/stop-reading-news/
