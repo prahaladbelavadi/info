@@ -6,3 +6,4 @@
 - https://en.wikipedia.org/wiki/Dependency_injection
 - https://en.wikipedia.org/wiki/Design_Patterns
 - https://fs.blog/2013/12/stop-reading-news/
+- https://en.wikipedia.org/wiki/Ada_Lovelace
