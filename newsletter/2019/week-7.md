@@ -1,0 +1,5 @@
+- http://conal.net/fran/tutorial.htm
+- https://janav.wordpress.com/2019/02/16/healthy-eating-and-intermittent-fasting/amp/#click=https://t.co/SjPLVqQMY9
+- https://medium.com/@jillcarlson/decentralized-credit-scoring-fe2c6c0611c6
+- https://tokeneconomy.co/superfluid-collateral-in-open-finance-8c3db15efac
+- https://www.elementsofai.com/
