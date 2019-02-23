@@ -3,3 +3,4 @@
 - https://medium.com/@jillcarlson/decentralized-credit-scoring-fe2c6c0611c6
 - https://tokeneconomy.co/superfluid-collateral-in-open-finance-8c3db15efac
 - https://www.elementsofai.com/
+- gumroad.com
