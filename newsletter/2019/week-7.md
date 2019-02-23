@@ -4,3 +4,6 @@
 - https://tokeneconomy.co/superfluid-collateral-in-open-finance-8c3db15efac
 - https://www.elementsofai.com/
 - gumroad.com
+- https://www.sharklasers.com/GuerrillaMailAPI.html
+- https://en.wikipedia.org/wiki/User_Datagram_Protocol
+- https://itsfoss.tradepub.com/category/information-technology-servers-and-linux-server-os/806/
