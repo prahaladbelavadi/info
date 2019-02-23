@@ -1,0 +1,1 @@
+- https://summation.net/2019/01/07/spend-lots-and-lots-of-time-alone/
