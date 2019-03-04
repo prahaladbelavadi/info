@@ -1,0 +1,2 @@
+- http://blog.samaltman.com/productivity
+- [Stellar talk at google ](https://www.youtube.com/watch?v=vmwnhZmEZjc)
