@@ -1,3 +1,4 @@
 - http://blog.samaltman.com/productivity
 - [Stellar talk at google ](https://www.youtube.com/watch?v=vmwnhZmEZjc)
 - https://www.nickgrossman.is/2019/changing-your-life/
+- https://www.epsilontheory.com/too-clever-by-half/
