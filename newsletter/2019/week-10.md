@@ -1,1 +1,12 @@
 - Four agreements: https://www.youtube.com/watch?v=TArfs_dljDM
+- The idealist -- Aaron Schwartz
+- Bllogging tools:
+  -  http://octopress.org/docs/
+  - https://docusaurus.io/docs/en/installation
+  - https://www.mkdocs.org/
+  - https://hexo.io/
+ 
+ - https://blog.codinghorror.com/speed-hashing/
+ - On web torrent by feross: https://youtu.be/PT8s_IVWDgw
+ - https://github.com/feross/conferences
+ - https://tinyclouds.org/optimistic_nihilism/
