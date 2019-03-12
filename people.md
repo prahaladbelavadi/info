@@ -39,3 +39,8 @@ I do understand that an hour of their time is valued differently than I choose t
 - glen greenwald
 - Eric Schmiedl: https://www.youtube.com/watch?v=mkW3N-ufPe4
 - https://en.wikipedia.org/wiki/Scott_Bradner
+- James Halliday : Substack.net CAD
+- https://feross.org/
+- https://tinyclouds.org/
+- https://johnresig.com/
+ 
