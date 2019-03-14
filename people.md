@@ -35,6 +35,7 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://en.wikipedia.org/wiki/Jeremy_Allison
 - https://en.wikipedia.org/wiki/Kevin_Poulsen
 - https://insecure.org/fyodor/
+- http://dominictarr.com/
 - https://twitter.com/xychelsea
 - glen greenwald
 - Eric Schmiedl: https://www.youtube.com/watch?v=mkW3N-ufPe4
