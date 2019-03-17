@@ -18,3 +18,7 @@
   - https://jekyllthemes.io/theme/online-cv
   - https://jekyllthemes.io/theme/agusmakmun-github-io
   - https://jekyllthemes.io/theme/mediumish
+- Writing jekyll themes: https://jekyllrb.com/docs/step-by-step/01-setup/
+
+Often I feel like I''m talking to myself selling me an idealistic world.
+Here you go. Take the words off my head on to a computer across the interneet much less a papeer through pens; into this world  let exist an ideology of a speaker's ideal world.
