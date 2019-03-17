@@ -1,1 +1,2 @@
 - https://en.wikipedia.org/wiki/Van_Eck_phreaking
+- https://eisaiah.blog/founder-friendly-standard/
