@@ -11,3 +11,10 @@
   - https://themes.gohugo.io/allinone/
   - https://themes.gohugo.io/hugo-theme-wave/
   - https://themes.gohugo.io/retrofulhugo/
+- Jekyll Themes
+  - https://wowthemesnet.github.io/mediumish-theme-jekyll/ 
+  - https://jekyllthemes.io/theme/jekyllmetro
+  - https://jekyllthemes.io/free
+  - https://jekyllthemes.io/theme/online-cv
+  - https://jekyllthemes.io/theme/agusmakmun-github-io
+  - https://jekyllthemes.io/theme/mediumish
