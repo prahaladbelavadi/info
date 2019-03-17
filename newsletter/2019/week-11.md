@@ -1,3 +1,11 @@
 - https://en.wikipedia.org/wiki/Van_Eck_phreaking
 - https://eisaiah.blog/founder-friendly-standard/
 - https://medium.com/@notgrubles/completely-offline-bitcoin-transactions-4e58324637bd
+- Hugo themes:
+  - https://github.com/rhazdon/hugo-theme-hello-friend-ng
+  - https://themes.gohugo.io//theme/hugo-code-editor-theme/page/2/
+  - https://themes.gohugo.io/vncnt-hugo/
+  - https://themes.gohugo.io/hugo-coder/
+  - https://themes.gohugo.io/hyde-hyde/
+  - https://themes.gohugo.io/hugo-theme-nix/
+  - https://themes.gohugo.io/allinone/
