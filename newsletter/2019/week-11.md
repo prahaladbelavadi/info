@@ -1,2 +1,3 @@
 - https://en.wikipedia.org/wiki/Van_Eck_phreaking
 - https://eisaiah.blog/founder-friendly-standard/
+- https://medium.com/@notgrubles/completely-offline-bitcoin-transactions-4e58324637bd
