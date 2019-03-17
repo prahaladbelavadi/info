@@ -9,3 +9,5 @@
   - https://themes.gohugo.io/hyde-hyde/
   - https://themes.gohugo.io/hugo-theme-nix/
   - https://themes.gohugo.io/allinone/
+  - https://themes.gohugo.io/hugo-theme-wave/
+  - https://themes.gohugo.io/retrofulhugo/
