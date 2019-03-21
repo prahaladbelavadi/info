@@ -22,3 +22,4 @@
 
 Often I feel like I''m talking to myself selling me an idealistic world.
 Here you go. Take the words off my head on to a computer across the interneet much less a papeer through pens; into this world  let exist an ideology of a speaker's ideal world.
+- https://bookboon.com/en/statistics-ebooks
