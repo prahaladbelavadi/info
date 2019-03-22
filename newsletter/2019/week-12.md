@@ -1,0 +1,10 @@
+- Resources to learn statistics and probability from:
+  - https://bookboon.com/en/statistics-ebooks
+  - https://stats.stackexchange.com/questions/170/free-statistical-textbooks
+  -  https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/
+  - http://heather.cs.ucdavis.edu/~matloff/132/PLN/probstatbook/ProbStatBook.pdf
+  -  http://heather.cs.ucdavis.edu/probstatbook
+  - https://upload.wikimedia.org/wikipedia/commons/6/6a/Probability.pdf
+  - https://upload.wikimedia.org/wikipedia/commons/8/82/Statistics.pdf
+  
+- https://mathpicture.fas.harvard.edu/hrt-course
