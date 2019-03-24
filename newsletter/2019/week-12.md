@@ -15,3 +15,4 @@
 - https://jedisct1.github.io/minisign/
 - https://pgp.cs.uu.nl/stats/7ffcb72a6522542e.html
 - http://keyserver.cns.vt.edu/pks/lookup?search=0x7FFCB72A6522542E&op=vindex
+- https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
