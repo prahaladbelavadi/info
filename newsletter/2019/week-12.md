@@ -20,4 +20,17 @@
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04
 - https://interactivepython.org/runestone/static/pythonds/index.html
 - IETF ref
-  - https://tools.ietf.org/html/rfc7519
+  - https://tools.ietf.org/html/rfc7519.pdf
+  - https://tools.ietf.org/pdf/rfc4880.pdf
+  
+- ASVS: https://www.owasp.org/images/6/67/OWASPApplicationSecurityVerificationStandard3.0.pdf
+- Keybase Stellar Proofs: https://github.com/keybase/proofs/blob/master/test/files/wallet.iced
+- OpenSSL Docs: https://www.openssl.org/docs/
+- Password Cracking:
+  - https://www.openwall.com/john/
+  - http://ophcrack.sourceforge.net/
+  - https://www.softpedia.com/get/Security/Decrypting-Decoding/Cain-and-Abel.shtml
+- GNUPG examples: https://github.com/gpg/gnupg/tree/master/doc/examples
+- GPG cheat sheet: http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/
+- Man page GPG: https://www.gnupg.org/documentation/manpage.html
+- Anatomy of a gpg key: https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key/
