@@ -16,3 +16,8 @@
 - https://pgp.cs.uu.nl/stats/7ffcb72a6522542e.html
 - http://keyserver.cns.vt.edu/pks/lookup?search=0x7FFCB72A6522542E&op=vindex
 - https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
+- https://github.com/jeffgerickson/algorithms/blob/master/Algorithms-JeffE.pdf
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04
+- https://interactivepython.org/runestone/static/pythonds/index.html
+- IETF ref
+  - https://tools.ietf.org/html/rfc7519
