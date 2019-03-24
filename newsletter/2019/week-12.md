@@ -34,3 +34,9 @@
 - GPG cheat sheet: http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/
 - Man page GPG: https://www.gnupg.org/documentation/manpage.html
 - Anatomy of a gpg key: https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key/
+- https://www.gnupg.org/gph/en/manual/book1.html
+- Pgp Anywhere chrome extension: chrome-extension://cdlcdnmhcodhagbmljapgbjdimjckilb/html/tutorial.html
+- Sample IEEE conference paper: https://paginas.fe.up.pt/~jca/wrsc/templates/IEEE-Conference-A4-format.pdf
+- Need to read this book someday: A guide to personal digital archiving : http://www.facetpublishing.co.uk/title.php?id=302666
+- The joy of cryptography book: http://library.open.oregonstate.edu/cryptography/
+- [Peter Rindal's](https://ladnir.github.io/) crypto tools: https://github.com/ladnir/cryptoTools
