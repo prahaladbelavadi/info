@@ -9,3 +9,9 @@
   
 - https://mathpicture.fas.harvard.edu/hrt-course
 - https://www.rempe.us/strongpass/
+- https://jedisct1.github.io/minisign/
+- https://en.wikipedia.org/wiki/Verifiable_secret_sharing
+- https://people.eecs.berkeley.edu/~daw/teaching/cs276-s04/22.pdf
+- https://jedisct1.github.io/minisign/
+- https://pgp.cs.uu.nl/stats/7ffcb72a6522542e.html
+- http://keyserver.cns.vt.edu/pks/lookup?search=0x7FFCB72A6522542E&op=vindex
