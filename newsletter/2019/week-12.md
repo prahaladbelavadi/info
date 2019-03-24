@@ -8,3 +8,4 @@
   - https://upload.wikimedia.org/wikipedia/commons/8/82/Statistics.pdf
   
 - https://mathpicture.fas.harvard.edu/hrt-course
+- https://www.rempe.us/strongpass/
