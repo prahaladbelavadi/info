@@ -22,6 +22,9 @@
 - IETF ref
   - https://tools.ietf.org/html/rfc7519.pdf
   - https://tools.ietf.org/pdf/rfc4880.pdf
+  - https://tools.ietf.org/html/rfc5802.pdf
+  
+  
   
 - ASVS: https://www.owasp.org/images/6/67/OWASPApplicationSecurityVerificationStandard3.0.pdf
 - Keybase Stellar Proofs: https://github.com/keybase/proofs/blob/master/test/files/wallet.iced
@@ -40,3 +43,4 @@
 - Need to read this book someday: A guide to personal digital archiving : http://www.facetpublishing.co.uk/title.php?id=302666
 - The joy of cryptography book: http://library.open.oregonstate.edu/cryptography/
 - [Peter Rindal's](https://ladnir.github.io/) crypto tools: https://github.com/ladnir/cryptoTools
+- https://en.wikipedia.org/wiki/Vehicular_ad-hoc_network
