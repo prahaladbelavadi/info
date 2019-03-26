@@ -44,3 +44,4 @@
 - The joy of cryptography book: http://library.open.oregonstate.edu/cryptography/
 - [Peter Rindal's](https://ladnir.github.io/) crypto tools: https://github.com/ladnir/cryptoTools
 - https://en.wikipedia.org/wiki/Vehicular_ad-hoc_network
+- https://www.owllabs.com/remote-work-interviews/david-heinemeier-hansson
