@@ -45,3 +45,4 @@
 - [Peter Rindal's](https://ladnir.github.io/) crypto tools: https://github.com/ladnir/cryptoTools
 - https://en.wikipedia.org/wiki/Vehicular_ad-hoc_network
 - https://www.owllabs.com/remote-work-interviews/david-heinemeier-hansson
+- https://startupboy.com/2019/03/22/intelligence-energy-integrity/
