@@ -50,3 +50,19 @@
 - https://startupboy.com/2019/03/22/intelligence-energy-integrity/
 - http://privacytools.io
 - https://securityknowledgeframework.org/
+- http://www.lessig.org/about/#tab5 : non corruption principle
+- https://en.wikipedia.org/wiki/Copyright_Clause
+- [How to lie with statistics](https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf)
+- https://lobste.rs cc github: https://github.com/lobsters/lobsters
+- https://barnacl.es/
+- https://github.com/mikeanthonywild/hacker-news-for-x
+- https://teachbitcoin.io
+- https://www.html5rocks.com/en/tutorials/cors/
+- https://www.codecademy.com/articles/what-is-cors
+- https://github.com/MaxHillebrand/LightningMultiSig/blob/master/Research.asciidoc/#schnorr
+- https://github.com/MaxHillebrand/LightningMultiSig/blob/master/LightningMultiSigTransaction.asciidoc#commitment-transaction-script
+- https://en.wikipedia.org/wiki/Etiquette_in_technology
+- https://en.wikipedia.org/wiki/Eternal_September
+- https://push.cx/
+- http://us.metamath.org/
+- https://www.raphkoster.com/2018/03/16/the-trust-spectrum/
