@@ -1,0 +1,1 @@
+- Thread: https://twitter.com/rivatez/status/1112361144851677185
