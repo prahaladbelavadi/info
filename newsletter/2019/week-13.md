@@ -1,2 +1,3 @@
 - Thread: https://twitter.com/rivatez/status/1112361144851677185
 - how to get wealthy without luck: https://threadreaderapp.com/thread/1002103360646823936.html
+- https://github.com/prakhar1989/awesome-courses
