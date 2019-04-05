@@ -3,3 +3,5 @@
 - https://github.com/prakhar1989/awesome-courses
 - ePassport security: https://www.icao.int/Security/FAL/PKD/BVRT/Pages/Basics.aspx
 - https://www.howitactuallyworks.com
+- It is difficult to get a man to understand something, when his salary depends on his not understanding it : Sar Haribhakti
+- https://threadreaderapp.com/thread/1113868879338434560.html
