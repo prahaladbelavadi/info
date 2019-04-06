@@ -6,3 +6,4 @@
 - It is difficult to get a man to understand something, when his salary depends on his not understanding it : Sar Haribhakti
 - https://threadreaderapp.com/thread/1113868879338434560.html
 - http://www.openculture.com/2016/06/free-learn-foreign-languages-in-your-car.html
+- https://www.20mintermsheet.com/
