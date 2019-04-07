@@ -10,3 +10,4 @@
 - http://paulgraham.com/raq.html
 - http://paulgraham.com/start.html
 - https://mises.org/library/human-action-0/html
+- https://mdswanson.com/blog/2013/05/31/summer-reading-list.html
