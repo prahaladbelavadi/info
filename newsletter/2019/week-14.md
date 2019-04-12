@@ -1,3 +1,9 @@
 - https://itunes.apple.com/us/institution/stanford/id384228265?mt=10
 - https://itunes.apple.com/us/institution/harvard-university/id379060688
 - https://itunes.apple.com/us/institution/harvard-extension-school/id428953217
+- https://www.sec.gov/Archives/edgar/data/1719379/000110465919020748/a18-15736_1partiiandiii.htm
+- Ethics:
+  - https://en.wikipedia.org/wiki/The_Most_Good_You_Can_Do
+  - https://en.wikipedia.org/wiki/Derek_Parfit
+  - https://en.wikipedia.org/wiki/Peter_Singer
+  - https://en.wikipedia.org/wiki/Rashomon
