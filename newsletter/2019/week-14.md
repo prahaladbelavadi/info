@@ -1,0 +1,3 @@
+- https://itunes.apple.com/us/institution/stanford/id384228265?mt=10
+- https://itunes.apple.com/us/institution/harvard-university/id379060688
+- https://itunes.apple.com/us/institution/harvard-extension-school/id428953217
