@@ -7,3 +7,4 @@
   - https://en.wikipedia.org/wiki/Derek_Parfit
   - https://en.wikipedia.org/wiki/Peter_Singer
   - https://en.wikipedia.org/wiki/Rashomon
+- https://threadreaderapp.com/thread/1112606437010632710.html
