@@ -9,5 +9,11 @@
   - https://en.wikipedia.org/wiki/Rashomon
 - https://threadreaderapp.com/thread/1112606437010632710.html
 - TSA STL files lockpicking masterkeys for tsa appproved locks: https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys 
-- 
 - http://www.xylibox.com/
+- https://medium.freecodecamp.org/best-practices-for-building-api-keys-97c26eabfea9
+- https://medium.freecodecamp.org/session-hijacking-and-how-to-stop-it-711e3683d1ac
+- https://medium.freecodecamp.org/securing-managing-secrets-using-google-cloud-kms-3fe08c69f499
+- https://cloud.google.com/docs/authentication/api-keys
+- https://landing.google.com/sre/books/
+- https://newco-c3e184.webflow.io/toolkit
+- https://www.makerpad.co/templates
