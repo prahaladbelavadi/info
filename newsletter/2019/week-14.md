@@ -8,3 +8,6 @@
   - https://en.wikipedia.org/wiki/Peter_Singer
   - https://en.wikipedia.org/wiki/Rashomon
 - https://threadreaderapp.com/thread/1112606437010632710.html
+- TSA STL files lockpicking masterkeys for tsa appproved locks: https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys 
+- 
+- http://www.xylibox.com/
