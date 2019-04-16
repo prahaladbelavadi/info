@@ -17,3 +17,5 @@
 - https://landing.google.com/sre/books/
 - https://newco-c3e184.webflow.io/toolkit
 - https://www.makerpad.co/templates
+- https://tools.ietf.org/pdf/rfc4511.pdf
+- https://en.wikipedia.org/wiki/Single_sign-on
