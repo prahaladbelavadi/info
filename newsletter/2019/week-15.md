@@ -9,3 +9,4 @@
 - Book Bad blood: theranos
 - https://en.wikipedia.org/wiki/Reasons_and_Persons
 - Jessica Livingston's book notes: https://docs.google.com/document/d/1dWpCE_uAh8EQObiTdfRYcxX5nAmmd_iYwN73D_cv2_0/edit
+- https://www.mckaywrigley.com
