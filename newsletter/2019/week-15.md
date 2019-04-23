@@ -1,0 +1,2 @@
+- https://sarharibhakti.substack.com/
+- https://www.youtube.com/watch?v=xmYekD6-PZ8
