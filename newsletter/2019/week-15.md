@@ -1,2 +1,11 @@
 - https://sarharibhakti.substack.com/
 - https://www.youtube.com/watch?v=xmYekD6-PZ8
+- Speakeasy
+- https://en.wikipedia.org/wiki/Burrows%E2%80%93Abadi%E2%80%93Needham_logic
+- https://www.kestrel.edu/home/people/meertens/publications/papers/A_semantics_for_BAN_logic.pdf
+- http://www.cs.cmu.edu/~dga/15-712/F07/papers/Burrows90.pdf
+- https://www.pachama.com/
+- The original comfy: Shaktank company
+- Book Bad blood: theranos
+- https://en.wikipedia.org/wiki/Reasons_and_Persons
+- Jessica Livingston's book notes: https://docs.google.com/document/d/1dWpCE_uAh8EQObiTdfRYcxX5nAmmd_iYwN73D_cv2_0/edit
