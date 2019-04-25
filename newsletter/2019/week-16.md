@@ -2,3 +2,14 @@
 - https://www.codingvc.com/when-is-a-dollar-not-a-dollar/
 - https://itsmrinal.wordpress.com/
 - https://en.wikiquote.org/wiki/George_Orwell
+- https://www.oaktreecapital.com/insights/howard-marks-memos
+- https://en.wikipedia.org/wiki/Howard_Marks_(investor)
+- Book: Setting the Table: The Transforming Power of Hospitality in Business by Danny Meyer
+- https://en.wikipedia.org/wiki/Danny_Meyer
+- https://en.wikipedia.org/wiki/No_Direction_Home
+- https://en.wikipedia.org/wiki/Bob_Knight
+- https://www.amazon.com/Knight-My-Story-Bob/dp/0312311176
+- abovethecrowd.com/2018/07/09/benchmarks-newest-general-partner-chetan-puttagunta/
+- http://abovethecrowd.com/
+- Book: Money ball : michael Lewis 
+- Bill Gurley Talk: https://www.youtube.com/watch?v=xmYekD6-PZ8&feature=youtu.be
