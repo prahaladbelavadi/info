@@ -1,0 +1,4 @@
+- https://www.codingvc.com/becoming-your-future-self/
+- https://www.codingvc.com/when-is-a-dollar-not-a-dollar/
+- https://itsmrinal.wordpress.com/
+- https://en.wikiquote.org/wiki/George_Orwell
