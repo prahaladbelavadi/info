@@ -13,3 +13,4 @@
 - http://abovethecrowd.com/
 - Book: Money ball : michael Lewis 
 - Bill Gurley Talk: https://www.youtube.com/watch?v=xmYekD6-PZ8&feature=youtu.be
+- https://en.wikipedia.org/wiki/L0pht
