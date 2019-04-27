@@ -15,3 +15,4 @@
 - Bill Gurley Talk: https://www.youtube.com/watch?v=xmYekD6-PZ8&feature=youtu.be
 - https://en.wikipedia.org/wiki/L0pht
 - https://blog.patricktriest.com/
+- https://github.com/ericdouglas/dev-log/tree/master/source
