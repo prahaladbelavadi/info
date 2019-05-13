@@ -1,3 +1,13 @@
 - https://github.com/sipa/bips/blob/bip-schnorr/bip-taproot.mediawiki
 - https://fs.blog/2012/02/book-recommendations-from-nassim-taleb/
 - http://blog.garrytan.com/
+- https://www.ribbonfarm.com/now-reading/
+- http://paulbuchheit.blogspot.com/
+- https://www.amazon.in/Design-Everyday-Things-Don-Norman/dp/0465050654
+- https://thehelm.com/
+- https://alexisohanian.com/
+- https://alexisohanian.com/home/2018/6/10/the-talk-that-got-me-banned-from-my-own-high-school
+- http://www.aaronkharris.com/
+- https://meltingasphalt.com/
+- http://josephwalla.com/
+- http://elephantinthebrain.com/
