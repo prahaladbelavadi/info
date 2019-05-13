@@ -1,2 +1,3 @@
 - https://github.com/sipa/bips/blob/bip-schnorr/bip-taproot.mediawiki
 - https://fs.blog/2012/02/book-recommendations-from-nassim-taleb/
+- http://blog.garrytan.com/
