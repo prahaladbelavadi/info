@@ -12,3 +12,4 @@
 - http://josephwalla.com/
 - http://elephantinthebrain.com/
 - https://www.amazon.com/Without-Their-Permission-Century-Managed/dp/1455520020/ref=tmm_hrd_title_0?ie=UTF8&qid=1362250000&sr=8-1
+- https://www.youtube.com/watch?v=9urYWGx2uNk
