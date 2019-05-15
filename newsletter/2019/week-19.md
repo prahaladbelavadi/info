@@ -1,3 +1,6 @@
 - https://www.youtube.com/watch?v=AUoRYs9r0ck
 - https://www.learnpmwith.me/
 - https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d
+- https://www.cc.gatech.edu/
+- https://www.udacity.com/georgia-tech
+- https://www.coursera.org/specializations/user-interface-design
