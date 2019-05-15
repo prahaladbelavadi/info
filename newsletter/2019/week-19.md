@@ -1,0 +1,2 @@
+- https://www.youtube.com/watch?v=AUoRYs9r0ck
+- https://www.learnpmwith.me/
