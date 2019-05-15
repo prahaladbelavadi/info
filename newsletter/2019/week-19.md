@@ -1,2 +1,3 @@
 - https://www.youtube.com/watch?v=AUoRYs9r0ck
 - https://www.learnpmwith.me/
+- https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d
