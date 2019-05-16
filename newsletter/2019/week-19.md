@@ -10,3 +10,4 @@
 - https://blakemasters.com/peter-thiels-cs183-startup
 - Startup YC how to start a startup: https://www.youtube.com/playlist?list=PL11qn6zM2Y3bMZdChxEqHKaCaKUjwItGL
 - https://explorecourses.stanford.edu/
+- https://github.com/ladamalina/coursera-startup
