@@ -12,3 +12,5 @@
 - https://explorecourses.stanford.edu/
 - https://github.com/ladamalina/coursera-startup: This one is  quite awesome!
 - https://selfstarter.us/
+- https://metastablecapital.com/
+- https://www.youtube.com/watch?v=cOubCHLXT6A
