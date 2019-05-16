@@ -14,3 +14,4 @@
 - https://selfstarter.us/
 - https://metastablecapital.com/
 - https://www.youtube.com/watch?v=cOubCHLXT6A
+- https://www.youtube.com/watch?v=cOubCHLXT6A: Balaji Srinivasan on Exit, Voice and loyalty startups, government and action
