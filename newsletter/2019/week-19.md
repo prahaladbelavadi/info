@@ -15,3 +15,6 @@
 - https://metastablecapital.com/
 - https://www.youtube.com/watch?v=cOubCHLXT6A
 - https://www.youtube.com/watch?v=cOubCHLXT6A: Balaji Srinivasan on Exit, Voice and loyalty startups, government and action
+- https://www.rabb.it/
+- https://www.openinvest.co/
+- https://learningontwitter.substack.com/p/learning-on-twitter-edition-1
