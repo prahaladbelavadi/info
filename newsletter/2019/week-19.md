@@ -18,3 +18,6 @@
 - https://www.rabb.it/
 - https://www.openinvest.co/
 - https://learningontwitter.substack.com/p/learning-on-twitter-edition-1
+- https://www.harrisonmetal.com/
+- https://firstround.com/review/
+- https://www.khoslaventures.com/resources
