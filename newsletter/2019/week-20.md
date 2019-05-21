@@ -1,1 +1,4 @@
 - [Sam Altman: Talk at YC ](https://www.youtube.com/watch?v=0lJKucu6HJc)
+- https://material.io/collections/developer-tutorials/
+- https://material.io/develop/web/
+- https://material.io/collections/developer-tutorials/#web
