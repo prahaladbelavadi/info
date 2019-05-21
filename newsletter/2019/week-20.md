@@ -3,3 +3,4 @@
 - https://material.io/develop/web/
 - https://material.io/collections/developer-tutorials/#web
 - https://patrickcollison.com/bookshelf
+- [implementing Material Design in Angular](https://www.youtube.com/watch?v=43dVsSSo4lc)
