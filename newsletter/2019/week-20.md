@@ -6,3 +6,8 @@
 - [implementing Material Design in Angular](https://www.youtube.com/watch?v=43dVsSSo4lc)
 - https://deployto.space/
 - Muusic: https://youtu.be/oUGrWlfz9Ww
+- https://material-components.github.io/material-components-web-catalog/#/
+- https://material.io/develop/web/components/layout-grid/
+- https://github.com/manfredsteyer/angular-oauth2-oidc
+- https://developers.google.com/identity/sign-in/web/backend-auth#verify-the-integrity-of-the-id-token
+- https://developers.google.com/identity/sign-in/web/sign-in
