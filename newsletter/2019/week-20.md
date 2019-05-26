@@ -11,3 +11,4 @@
 - https://github.com/manfredsteyer/angular-oauth2-oidc
 - https://developers.google.com/identity/sign-in/web/backend-auth#verify-the-integrity-of-the-id-token
 - https://developers.google.com/identity/sign-in/web/sign-in
+- Rowan Atkinson comedy: https://youtu.be/N9NCyGaxoDY
