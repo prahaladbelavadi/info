@@ -12,3 +12,13 @@
 - https://developers.google.com/identity/sign-in/web/backend-auth#verify-the-integrity-of-the-id-token
 - https://developers.google.com/identity/sign-in/web/sign-in
 - Rowan Atkinson comedy: https://youtu.be/N9NCyGaxoDY
+- https://www.citizenmaths.com
+- https://edu.google.com/openonline/
+
+# Interesting courses:
+
+- https://www.edx.org/course/introduction-to-aerospace-structures-and-materials-0
+- https://www.edx.org/course/introduction-game-design-mitx-11-126x-0
+- https://www.edx.org/course/user-interface-ui-personalization-1
+- SolidWorks
+- https://www.lynda.com/Solidworks-training-tutorials/1157-0.html
