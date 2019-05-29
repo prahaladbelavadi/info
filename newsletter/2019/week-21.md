@@ -8,3 +8,4 @@
 - http://www.paulgraham.com/love.html
 - https://blog.ycombinator.com/author/karen-lien/
 - Paul Graham YC Interview: https://www.youtube.com/watch?v=4WO5kJChg3w 
+- https://en.wikipedia.org/wiki/Labours_of_Hercules
