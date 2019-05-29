@@ -6,3 +6,4 @@
 - http://www.paulgraham.com/good.html
 - http://www.paulgraham.com/13sentences.html
 - http://www.paulgraham.com/love.html
+- https://blog.ycombinator.com/author/karen-lien/
