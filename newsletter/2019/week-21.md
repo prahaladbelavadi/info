@@ -1,0 +1,3 @@
+- http://www.read.seas.harvard.edu/~kohler/
+- http://www.paulgraham.com/avg.html
+- http://www.paulgraham.com/aap.html
