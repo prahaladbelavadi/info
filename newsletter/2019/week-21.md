@@ -7,3 +7,4 @@
 - http://www.paulgraham.com/13sentences.html
 - http://www.paulgraham.com/love.html
 - https://blog.ycombinator.com/author/karen-lien/
+- Paul Graham YC Interview: https://www.youtube.com/watch?v=4WO5kJChg3w 
