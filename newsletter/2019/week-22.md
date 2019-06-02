@@ -3,7 +3,7 @@
 - https://www.socialcapital.com/
 - Amazing talk by chamath on what matters, his life story, his morals, what drives him: https://www.youtube.com/watch?v=PMotykw0SIk
 - https://en.wikipedia.org/wiki/Code_of_Hammurabi
-
+- https://0xbc90.substack.com/p/briannekimmel-and-shl-talking-growth
 
 
 # released example to do authentication with google:
