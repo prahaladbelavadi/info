@@ -1,0 +1,4 @@
+- https://a16z.com/2018/08/04/earned-secrets-ben-horowitz-interns-2018/
+- https://www.youtube.com/watch?v=UTchioiHM0U
+- https://www.youtube.com/watch?v=Bw9P_ZXWDJU
+- https://www.youtube.com/watch?v=dDzKN0B5hjY
