@@ -4,3 +4,4 @@
 - https://www.youtube.com/watch?v=dDzKN0B5hjY
 - https://plaid.com/
 - https://youtu.be/TZmBoMZFC8g
+- https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and
