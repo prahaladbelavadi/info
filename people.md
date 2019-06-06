@@ -48,4 +48,5 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://www.bvp.com/contact
 - garry tan
 - http://tlb.org/#
-- https://en.wikipedia.org/wiki/Chamath_Palihapitiya
+- https://en.wikipedia.org/wiki/Chamath_Palihapitiya\
+- https://dcpos.ch/
