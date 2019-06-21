@@ -51,3 +51,4 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://en.wikipedia.org/wiki/Chamath_Palihapitiya\
 - https://dcpos.ch/
 - Will Binns from bitcoin.org
+- https://peterlyons.com
