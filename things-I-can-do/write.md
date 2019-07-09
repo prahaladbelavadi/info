@@ -6,3 +6,5 @@ I like writing and I like tech so
 - Linode
   - https://www.linode.com/docs/contribute/
   - https://www.linode.com/docs/linode-writers-formatting-guide/
+- Alligator.io
+  - https://alligator.io/write-for-us/
