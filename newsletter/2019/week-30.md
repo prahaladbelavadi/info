@@ -1,1 +1,3 @@
 - https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
+- https://en.wikipedia.org/wiki/Huffman_coding
+- https://elizabethyin.com/2019/07/19/how-to-think-about-different-types-of-funding-for-your-early-stage-startup/
