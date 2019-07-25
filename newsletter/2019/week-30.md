@@ -2,3 +2,7 @@
 - https://en.wikipedia.org/wiki/Huffman_coding
 - https://elizabethyin.com/2019/07/19/how-to-think-about-different-types-of-funding-for-your-early-stage-startup/
 - https://www.ecma-international.org/ecma-262/6.0/
+- https://dev.to/ruffle1986/atomic-habits-book-review-and-cheat-sheet-1bh4
+- https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
+- https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
+- https://jamesclear.com/habits-scorecard
