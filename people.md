@@ -55,3 +55,6 @@ I do understand that an hour of their time is valued differently than I choose t
 - Suhas Motwani
 - https://levien.com/
 - https://www.jessepollak.com/
+- Bruce Schneier
+- Thiyagrajan
+- Bill Gurley
