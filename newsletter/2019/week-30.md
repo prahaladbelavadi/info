@@ -6,3 +6,4 @@
 - https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
 - https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
 - https://jamesclear.com/habits-scorecard
+- https://www.jessepollak.com/
