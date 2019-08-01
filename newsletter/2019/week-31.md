@@ -1,2 +1,3 @@
 - https://coursework.vschool.io/mongoose-schemas/
 - https://stackoverflow.com/questions/9127174/why-does-mongoose-have-both-schemas-and-models
+- https://fs.blog/daniel-gross/
