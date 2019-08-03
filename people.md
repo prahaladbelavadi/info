@@ -58,3 +58,5 @@ I do understand that an hour of their time is valued differently than I choose t
 - Bruce Schneier
 - Thiyagrajan
 - Bill Gurley
+- http://woloski.com/
+- Madars Virza
