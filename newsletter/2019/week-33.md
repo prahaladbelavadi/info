@@ -1,1 +1,2 @@
 - https://games.mozilla.org/
+- http://gameprogrammingpatterns.com/architecture-performance-and-games.html
