@@ -1,2 +1,3 @@
 - https://games.mozilla.org/
 - http://gameprogrammingpatterns.com/architecture-performance-and-games.html
+- https://en.wikipedia.org/wiki/Luhn_algorithm
