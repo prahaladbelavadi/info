@@ -1,3 +1,4 @@
 - https://games.mozilla.org/
 - http://gameprogrammingpatterns.com/architecture-performance-and-games.html
 - https://en.wikipedia.org/wiki/Luhn_algorithm
+- https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0
