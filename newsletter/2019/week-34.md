@@ -15,3 +15,6 @@
 - https://serverless.com/framework/docs/providers/aws/guide/services/
 - https://github.com/serverless/examples
 - https://www.aws.training/LearningLibrary
+- https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b
+- https://aws.amazon.com/appsync/
+- https://www.youtube.com/watch?v=ubCNZRNjhyo
