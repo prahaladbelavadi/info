@@ -1,0 +1,17 @@
+- https://serverless.com
+- http://apiworkbench.com/
+- https://medium.com/netflix-techblog/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d
+- https://microservices.io/
+- https://www.tutorialspoint.com/microservice_architecture/microservice_architecture_tutorial.pdf
+- https://www.tutorialspoint.com/amazon_web_services/amazon_web_services_lambda.htm
+- https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+- https://docs.aws.amazon.com/lambda/
+- https://aws.amazon.com/lambda/getting-started/
+- https://aws.amazon.com/getting-started/
+- https://aws.amazon.com/getting-started/use-cases/
+- https://aws.amazon.com/api-gateway/getting-started/
+- https://aws.amazon.com/lambda/getting-started/
+- https://aws.amazon.com/serverless/
+- https://serverless.com/framework/docs/providers/aws/guide/services/
+- https://github.com/serverless/examples
+- https://www.aws.training/LearningLibrary
