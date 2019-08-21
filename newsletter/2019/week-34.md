@@ -18,3 +18,5 @@
 - https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b
 - https://aws.amazon.com/appsync/
 - https://www.youtube.com/watch?v=ubCNZRNjhyo
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
+- https://youtu.be/9CKsX6MOPDQ
