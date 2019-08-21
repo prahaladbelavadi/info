@@ -20,4 +20,4 @@
 - https://www.youtube.com/watch?v=ubCNZRNjhyo
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
 - https://youtu.be/9CKsX6MOPDQ
-- Sable.com
+- Sablecard.com
