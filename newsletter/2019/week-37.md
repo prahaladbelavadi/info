@@ -1,0 +1,6 @@
+- https://softwareontheroad.com/ideal-nodejs-project-structure/?utm_source=github&utm_medium=readme
+- https://github.com/santiq/bulletproof-nodejs
+- https://medium.com/better-programming/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
+- https://github.com/getify/You-Dont-Know-JS
+- https://www.starttech.vc/portfolio/
+- https://medium.com/@alexgolec/google-interview-problems-ratio-finder-d7aa8bf201e3
