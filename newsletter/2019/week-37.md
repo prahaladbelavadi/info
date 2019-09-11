@@ -4,3 +4,4 @@
 - https://github.com/getify/You-Dont-Know-JS
 - https://www.starttech.vc/portfolio/
 - https://medium.com/@alexgolec/google-interview-problems-ratio-finder-d7aa8bf201e3
+- https://json-schema.org/understanding-json-schema/index.html
