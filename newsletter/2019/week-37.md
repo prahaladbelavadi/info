@@ -5,3 +5,4 @@
 - https://www.starttech.vc/portfolio/
 - https://medium.com/@alexgolec/google-interview-problems-ratio-finder-d7aa8bf201e3
 - https://json-schema.org/understanding-json-schema/index.html
+- https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants
