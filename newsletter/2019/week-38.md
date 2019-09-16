@@ -1,1 +1,3 @@
 - https://www.videostudiopro.com/en/products/videostudio/pro/
+- https://jamesclear.com/great-speeches/time-management-by-randy-pausch
+- https://jamesclear.com/great-speeches
