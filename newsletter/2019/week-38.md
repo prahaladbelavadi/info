@@ -1,0 +1,1 @@
+- https://www.videostudiopro.com/en/products/videostudio/pro/
