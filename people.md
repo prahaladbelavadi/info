@@ -65,3 +65,4 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://www.taniarascia.com
 - Guy Kawasaki
 - Jessica Livingston
+- http://www.danah.org/aboutme.html
