@@ -8,7 +8,7 @@ I do understand that an hour of their time is valued differently than I choose t
 - Linus Torvals
 - Bill Joy
 - https://amirtaaki.org/
-- Vinod khosla
+- Vinod khosla: https://www.youtube.com/watch?v=HZcXup7p5-8
 - Naval
 - http://web.cs.ucla.edu/~rafail/#bio
 - https://www.seas.harvard.edu/sites/default/files/salid_vadhan_cv_0.pdf
@@ -66,3 +66,4 @@ I do understand that an hour of their time is valued differently than I choose t
 - Guy Kawasaki
 - Jessica Livingston
 - http://www.danah.org/aboutme.html
+- Don valentine
