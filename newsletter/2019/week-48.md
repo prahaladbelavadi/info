@@ -1,0 +1,2 @@
+- https://basecamp.com/personal
+- https://www.chiratae.com/
