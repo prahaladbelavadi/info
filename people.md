@@ -69,3 +69,4 @@ I do understand that an hour of their time is valued differently than I choose t
 - Don valentine
 - https://madhums.me/
 - iancoleman.io
+- https://www.boazbarak.org/#contact
