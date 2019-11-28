@@ -2,3 +2,5 @@
 - https://www.chiratae.com/
 - https://cryptoanarchy.wiki/#getting-started
 - https://intensecrypto.org/public/index.html
+- read.gift
+- collate.pro
