@@ -2,3 +2,4 @@
 - Abstract TV show: https://neri.media.mit.edu/courses/details/principles-of-computational-design-and-additive-manufacturing.html
 - http://paulgraham.com/lesson.html
 - https://wearehostsformemes.com/
+- https://www.evernote.com/shard/s40/client/snv?noteGuid=d674d5b3-b8c7-49aa-96b1-31f0d40980c2&noteKey=9a0b760e7f5267e1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs40%2Fsh%2Fd674d5b3-b8c7-49aa-96b1-31f0d40980c2%2F9a0b760e7f5267e1&title=%2540loopuleasa%2Bmental%2Bmodels%2B%255Bshared%2Bnote%255D
