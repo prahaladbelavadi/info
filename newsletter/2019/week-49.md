@@ -1,3 +1,4 @@
 - https://neri.media.mit.edu/courses/details/principles-of-computational-design-and-additive-manufacturing.html
 - Abstract TV show: https://neri.media.mit.edu/courses/details/principles-of-computational-design-and-additive-manufacturing.html
 - http://paulgraham.com/lesson.html
+- https://wearehostsformemes.com/
