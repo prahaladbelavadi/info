@@ -1,2 +1,4 @@
 - https://devcenter.heroku.com/articles/mean-apps-restful-api
 - https://yeoman.io/authoring/
+- https://takenote.dev/
+- https://devcenter.heroku.com/articles/custom-domains
