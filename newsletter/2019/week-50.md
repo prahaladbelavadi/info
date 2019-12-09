@@ -1,0 +1,2 @@
+- https://devcenter.heroku.com/articles/mean-apps-restful-api
+- https://yeoman.io/authoring/
