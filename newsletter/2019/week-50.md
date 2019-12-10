@@ -7,3 +7,5 @@
 - https://overreacted.io/things-i-dont-know-as-of-2018/
 - https://overreacted.io/
 - https://www.taniarascia.com/developer-blogs-to-follow-2019/
+- A16z has a crypto program in menlo park
+- Thiel fellowship
