@@ -73,3 +73,5 @@ I do understand that an hour of their time is valued differently than I choose t
 - http://www.mikekarnj.com/
 - Neri Oxman: https://neri.media.mit.edu/courses/details/principles-of-computational-design-and-additive-manufacturing.html
 - Tania Rascia : https://www.taniarascia.com/
+- https://sampiercelolla.com/
+- Raj Kunkolienkar
