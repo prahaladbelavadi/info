@@ -9,3 +9,4 @@
 - https://www.taniarascia.com/developer-blogs-to-follow-2019/
 - A16z has a crypto program in menlo park
 - Thiel fellowship
+- https://www.notion.so/Yuva-Fund-c41b1164963e431b98fc0ce3ca59acf2
