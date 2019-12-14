@@ -11,3 +11,4 @@
 - Thiel fellowship
 - https://www.notion.so/Yuva-Fund-c41b1164963e431b98fc0ce3ca59acf2
 - https://levien.com/phd/thesis.pdf
+- https://patrickcollison.com/advice
