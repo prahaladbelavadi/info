@@ -12,3 +12,4 @@
 - https://www.notion.so/Yuva-Fund-c41b1164963e431b98fc0ce3ca59acf2
 - https://levien.com/phd/thesis.pdf
 - https://patrickcollison.com/advice
+- http://tigerthinks.com/2015/11/16/how-i-got-full-time-software-development-work-at-16/
