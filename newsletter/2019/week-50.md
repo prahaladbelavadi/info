@@ -13,3 +13,4 @@
 - https://levien.com/phd/thesis.pdf
 - https://patrickcollison.com/advice
 - http://tigerthinks.com/2015/11/16/how-i-got-full-time-software-development-work-at-16/
+- https://99designs.com/blog/book-design/anatomy-of-a-book-cover/
