@@ -1,0 +1,2 @@
+- https://substack.com/
+- https://www.logicalfallacies.org/
