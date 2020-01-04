@@ -11,3 +11,5 @@
 - https://spreadprivacy.com/how-to-remove-google/
 - https://en.wikipedia.org/wiki/Compressible_flow
 - https://en.wikipedia.org/wiki/Incompressible_flow
+- https://twitter.com/JamesClear/status/1213486179162689538?s=20
+- 100 Pushups a day
