@@ -1,2 +1,11 @@
 - https://substack.com/
 - https://www.logicalfallacies.org/
+- Product:
+  - https://goberoi.com/on-writing-product-specs-5ca697b992fd
+  - Example product spec: https://docs.google.com/document/d/1MU-fo5FlBbcz3R-Eg38lFtcAr5s_k2ynpd9ew0aButs/edit#
+  - https://hackernoon.com/how-you-write-product-specs-is-how-you-build-products-8072e52dabed
+  - https://www.wikihow.com/Write-a-Technical-Specification
+  
+- freecodecamp.com
+- https://github.com/spacehuhn/esp8266_deauther
+- https://spreadprivacy.com/how-to-remove-google/
