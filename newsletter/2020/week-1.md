@@ -9,3 +9,5 @@
 - freecodecamp.com
 - https://github.com/spacehuhn/esp8266_deauther
 - https://spreadprivacy.com/how-to-remove-google/
+- https://en.wikipedia.org/wiki/Compressible_flow
+- https://en.wikipedia.org/wiki/Incompressible_flow
