@@ -13,3 +13,12 @@
 - https://en.wikipedia.org/wiki/Incompressible_flow
 - https://twitter.com/JamesClear/status/1213486179162689538?s=20
 - 100 Pushups a day
+- https://en.wikipedia.org/wiki/Cornell_Notes
+- http://lsc.cornell.edu/study-skills/cornell-note-taking-system/
+- https://www.wikihow.com/Take-Cornell-Notes
+- Flux light windows
+- Prototyping tools:
+  - Repl.it : Amjad Masad from codecademy
+  - Glitch : Fog Creek Joel Spolsky
+  - Codesandbox
+  - Coder
