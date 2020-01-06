@@ -22,3 +22,5 @@
   - Glitch : Fog Creek Joel Spolsky
   - Codesandbox
   - Coder
+- https://www.perell.com/podcast/jmj
+- https://medium.com/@prahaladbelavadi/publishing-angular-site-with-github-pages-3a9a7655ad4e
