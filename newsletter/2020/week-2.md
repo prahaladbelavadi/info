@@ -1,1 +1,2 @@
 - https://www.linkedin.com/pulse/selling-life-skill-yashwanth-madhusudan?articleId=6181719112578895872
+- http://hacktostart.com/jeff-morris-jr/
