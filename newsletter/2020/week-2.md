@@ -3,3 +3,4 @@
 - https://somemealsconsidered.substack.com/
 - https://gothamgal.com/investments/
 - https://gothamgal.com
+- https://12factor.net/
