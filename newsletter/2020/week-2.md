@@ -4,3 +4,5 @@
 - https://gothamgal.com/investments/
 - https://gothamgal.com
 - https://12factor.net/
+- https://learnawesome.org/
+- https://github.com/nileshtrivedi/family
