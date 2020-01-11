@@ -7,3 +7,4 @@
 - https://learnawesome.org/
 - https://github.com/nileshtrivedi/family
 - https://underwearworker.com/
+- https://dev.to/rdegges/please-stop-using-local-storage-1i04
