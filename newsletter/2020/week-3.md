@@ -1,0 +1,4 @@
+- https://functionalcs.github.io/curriculum/
+- https://teachyourselfcs.com/
+- https://github.com/ossu/computer-science
+- https://cs.stanford.edu/degrees/undergrad/Requirements.shtml
