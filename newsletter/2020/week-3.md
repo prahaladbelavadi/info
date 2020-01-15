@@ -3,3 +3,13 @@
 - https://github.com/ossu/computer-science
 - https://cs.stanford.edu/degrees/undergrad/Requirements.shtml
 - https://cs61a.org/
+- https://www.notion.so/Try-Khel-e84eaf6b07f94b17a8d13286b4a923d3
+- https://www.freecodecamp.org/news/how-i-went-from-not-knowing-how-to-code-to-shipping-9-projects-in-9-months-all-before-my-15th-7ec3666072c3/
+- https://wip.chat/@jajoosam
+- https://www.producthunt.com/posts/syncr
+- https://www.notion.so/skrrt-8989afae2e4d4df596fc42eab8ae1319
+- https://play.google.com/store/apps/details?id=io.github.yhdesai.androidapi : https://khel.dev/
+- https://www.reddit.com/r/IntellectualDarkWeb/
+- https://devdegree.ca/
+- https://www.reddit.com/r/obscurePDFs/
+- nom.blue
