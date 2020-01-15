@@ -13,3 +13,4 @@
 - https://devdegree.ca/
 - https://www.reddit.com/r/obscurePDFs/
 - nom.blue
+- https://www.programmableweb.com/category/all/apis
