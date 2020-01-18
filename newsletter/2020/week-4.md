@@ -1,0 +1,2 @@
+- https://podcastnotes.org/2020/01/09/mike-maples-venture-stories-erik-torenberg-startups-entrepreneurship/
+- https://www.spreaker.com/user/10197011/mike-maples-on-building-successful-start
