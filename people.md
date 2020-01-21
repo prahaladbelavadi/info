@@ -81,3 +81,4 @@ I do understand that an hour of their time is valued differently than I choose t
 - Yashwanth Madhusudan - FyleHQ.com
 - caro.io
 - Patrick McKenzie: Patio11: https://www.kalzumeus.com/standing-invitation/
+- Liz Krane : https://learningnerd.com/
