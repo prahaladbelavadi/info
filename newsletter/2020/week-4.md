@@ -2,3 +2,4 @@
 - https://www.spreaker.com/user/10197011/mike-maples-on-building-successful-start
 - https://www.instructables.com/id/HacKeyboard-a-mechanical-keyboard-built-from-scrat/
 - https://www.youtube.com/watch?v=qrDZhAxpKrQ : Patrick Collison
+- https://www.jvandemo.com/how-to-use-environment-variables-to-configure-your-angular-application-without-a-rebuild/
