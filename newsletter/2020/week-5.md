@@ -3,3 +3,4 @@
 - BJ Fogg
   - https://www.tinyhabits.com/
   - https://www.bjfogg.com/
+- https://github.com/sweetalert2/ngx-sweetalert2
