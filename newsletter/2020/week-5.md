@@ -5,3 +5,4 @@
   - https://www.bjfogg.com/
 - https://github.com/sweetalert2/ngx-sweetalert2
 - https://daveceddia.com/access-control-allow-origin-cors-errors-in-angular/
+- https://daneden.me/books
