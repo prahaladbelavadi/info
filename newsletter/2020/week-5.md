@@ -6,3 +6,5 @@
 - https://github.com/sweetalert2/ngx-sweetalert2
 - https://daveceddia.com/access-control-allow-origin-cors-errors-in-angular/
 - https://daneden.me/books
+- Lisa Simone in Le ring
+  - http://www.ninasimone.com/bio/
