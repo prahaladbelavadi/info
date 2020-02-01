@@ -8,3 +8,4 @@
 - https://daneden.me/books
 - Lisa Simone in Le ring
   - http://www.ninasimone.com/bio/
+- Assemble with Care: IStore games
