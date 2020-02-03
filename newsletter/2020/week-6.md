@@ -17,3 +17,4 @@
 - Expatriate,https://en.wikipedia.org/wiki/Expungement, exonerate, inexorable
 - https://nomoregoogle.com/
 - https://www.oaktreecapital.com/insights/howard-marks-memos
+- https://playbook.samaltman.com/
