@@ -18,3 +18,5 @@
 - https://nomoregoogle.com/
 - https://www.oaktreecapital.com/insights/howard-marks-memos
 - https://playbook.samaltman.com/
+- https://www.amazon.com/gp/product/0684837935/ref=as_li_qf_asin_il_tl?imprToken=OutQMOLv2mlzONEcalEmQg&slotNum=0&ie=UTF8&tag=jamesclearema-20&creative=9325&linkCode=w61&creativeASIN=0684837935&linkId=fc20c866a2712753896a32d3b195a861
+- https://jamesclear.com/habit-tracker
