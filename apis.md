@@ -13,3 +13,4 @@ I shall make a note of such apis here to experiment and try those someday.
 - https://developers.google.com/pay/api
 - https://developer.lufthansa.com/docs/read/api_basics/JSON_Format_2
 - https://rapidapi.com/matchilling/api/chuck-norris
+- https://www.programmableweb.com/category/all/apis
