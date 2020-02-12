@@ -15,3 +15,9 @@ Fastest Half Marathon: 3:50:10
 
 This should eventually be on my website soon
 
+- https://www.tapchief.com/blog/
+- http://www.adhamdannaway.com/blog
+- https://kentcdodds.com/
+- https://kentcdodds.com/about/
+- Current Bank : Current.com
+- http://designinginterfaces.com/patterns/
