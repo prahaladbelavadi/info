@@ -1,0 +1,2 @@
+- https://www.appbrewery.co/p/ios-course-resources
+- https://github.com/prahaladbelavadi/ios-I-am-rich-app
