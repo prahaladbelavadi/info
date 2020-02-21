@@ -1,2 +1,5 @@
 - https://www.appbrewery.co/p/ios-course-resources
 - https://github.com/prahaladbelavadi/ios-I-am-rich-app
+- https://digitalbreed.com/2014/02/10/how-to-build-a-game-like-flappy-bird-with-xcode-and-sprite-kit/
+- https://en.wikipedia.org/wiki/Parallax_scrolling
+- https://js.la/
