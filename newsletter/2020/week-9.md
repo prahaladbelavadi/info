@@ -2,4 +2,5 @@
 - https://developer.apple.com/design/tips/
 - https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
 - https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA :Lets build that app
-- 
+- https://material.io/design/typography/understanding-typography.html#system-fonts
+- Code with Chris
