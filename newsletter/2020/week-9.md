@@ -4,3 +4,5 @@
 - https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA :Lets build that app
 - https://material.io/design/typography/understanding-typography.html#system-fonts
 - Code with Chris
+- https://medium.com/@lolitataub/first-time-founders-resource-guide-2b14ba3fb608
+- https://visualize-your-git.herokuapp.com/
