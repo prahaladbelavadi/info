@@ -1,0 +1,5 @@
+- https://www.hackingwithswift.com/quick-start/swiftui
+- https://developer.apple.com/design/tips/
+- https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+- https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA :Lets build that app
+- 
