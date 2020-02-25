@@ -6,3 +6,4 @@
 - Code with Chris
 - https://medium.com/@lolitataub/first-time-founders-resource-guide-2b14ba3fb608
 - https://visualize-your-git.herokuapp.com/
+- http://highscalability.com/start-here/
