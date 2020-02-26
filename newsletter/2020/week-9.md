@@ -7,3 +7,8 @@
 - https://medium.com/@lolitataub/first-time-founders-resource-guide-2b14ba3fb608
 - https://visualize-your-git.herokuapp.com/
 - http://highscalability.com/start-here/
+- https://github.com/public-apis/public-apis
+- https://www.producthunt.com/posts/public-apis-ui
+- https://www.npmjs.com/package/marvel-api
+- https://developer.marvel.com/
+- https://thecatapi.com/
