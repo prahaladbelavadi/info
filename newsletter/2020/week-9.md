@@ -12,3 +12,5 @@
 - https://www.npmjs.com/package/marvel-api
 - https://developer.marvel.com/
 - https://thecatapi.com/
+- https://polygon.io/
+- Bulma.io
