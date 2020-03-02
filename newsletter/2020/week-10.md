@@ -1,0 +1,6 @@
+- https://blog.cleancoder.com/uncle-bob/2019/07/22/WhyWontIt.html
+- Agile Software Development, Principles, Patterns, and Practice - Uncle Bob
+- principles of object oriented design
+- https://en.wikipedia.org/wiki/Category:Programming_principles
+- https://en.wikibooks.org/wiki/Computer_Programming_Principles
+- Programming Pearls
