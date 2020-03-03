@@ -5,3 +5,5 @@
 - https://en.wikibooks.org/wiki/Computer_Programming_Principles
 - Programming Pearls
 - https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html
+- gitpod.io
+- https://contribute.dev/
