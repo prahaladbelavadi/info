@@ -2,3 +2,4 @@
 - Won toastmasters ribbon for table topics
 - Did interval training running: Feedback that My running form has improved
 - http://www.catb.org/~esr/faqs/hacker-howto.html
+- https://taylorpearson.me/corona/
