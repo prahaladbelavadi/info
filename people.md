@@ -85,3 +85,4 @@ I do understand that an hour of their time is valued differently than I choose t
 - nimawat.co
 - http://toddhoff.com
 - Michael Grosser : Grosser.it : https://github.com/grosser
+- https://madebysid.com/
