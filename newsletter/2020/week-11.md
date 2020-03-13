@@ -6,3 +6,4 @@
 - https://willrobbins.org/
 - http://paulgraham.com/badeconomy.html
 - http://leanproductplaybook.com/
+- https://www.learnpmwith.me/resources/
