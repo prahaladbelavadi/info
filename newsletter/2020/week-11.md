@@ -4,3 +4,5 @@
 - http://www.catb.org/~esr/faqs/hacker-howto.html
 - https://taylorpearson.me/corona/
 - https://willrobbins.org/
+- http://paulgraham.com/badeconomy.html
+- http://leanproductplaybook.com/
