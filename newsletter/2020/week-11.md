@@ -7,3 +7,6 @@
 - http://paulgraham.com/badeconomy.html
 - http://leanproductplaybook.com/
 - https://www.learnpmwith.me/resources/
+- https://www.mozillalabs.com/Popcorn/index.html
+- https://www.mozillalabs.com/en-US/hatchery/index.html
+- 
