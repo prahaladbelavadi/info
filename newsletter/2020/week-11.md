@@ -13,3 +13,4 @@
 - https://hackernoon.com/the-effective-tech-lead-is-a-100x-engineer-fe49c0372a63
 - https://hackernoon.com/what-separates-good-managers-from-the-rest-8d43453decca
 - https://www.youtube.com/watch?v=M3TDGeB20nk : Product interviews
+- https://www.productschool.com/free-product-management-resources/
