@@ -9,4 +9,7 @@
 - https://www.learnpmwith.me/resources/
 - https://www.mozillalabs.com/Popcorn/index.html
 - https://www.mozillalabs.com/en-US/hatchery/index.html
-- 
+-  https://www.linkedin.com/pulse/how-i-became-product-manager-manas-j-saloi/
+- https://hackernoon.com/the-effective-tech-lead-is-a-100x-engineer-fe49c0372a63
+- https://hackernoon.com/what-separates-good-managers-from-the-rest-8d43453decca
+- https://www.youtube.com/watch?v=M3TDGeB20nk : Product interviews
