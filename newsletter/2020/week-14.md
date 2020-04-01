@@ -6,3 +6,7 @@
 - Time.is
 - Currency.world
 - New York vs LA : https://www.youtube.com/watch?v=BwQPqpmiD88
+- https://medium.com/@ofir3322/create-an-online-ide-with-angular-6-nodejs-part-1-163a939a7929 : Setting up a Node and Angular IDE using ACE
+  - https://medium.com/@ofir3322/create-an-online-ide-with-angular-6-nodejs-part-1-163a939a7929
+- https://medium.com/iamdeepinder/creating-a-real-time-app-with-angular-8-and-socket-io-with-nodejs-af63bd59a47f Integrating Socketio with Angular for chat applications
+- Ngx Socket.io library: https://www.npmjs.com/package/ngx-socket-io
