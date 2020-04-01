@@ -1,0 +1,8 @@
+- https://www.youtube.com/watch?v=EqHIn6eWfus : History of Phone numbers
+- https://en.wikipedia.org/wiki/Area_codes_212,_646,_and_332
+- https://www.receivesms.co/us-phone-numbers/us/
+- callhippo.com/
+- https://www.youtube.com/watch?v=p2EM8WUfMFc : History of New York
+- Time.is
+- Currency.world
+- New York vs LA : https://www.youtube.com/watch?v=BwQPqpmiD88
