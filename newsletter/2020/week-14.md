@@ -11,3 +11,5 @@
 - https://medium.com/iamdeepinder/creating-a-real-time-app-with-angular-8-and-socket-io-with-nodejs-af63bd59a47f Integrating Socketio with Angular for chat applications
 - Ngx Socket.io library: https://www.npmjs.com/package/ngx-socket-io
 - http://danshipper.com/blog
+- https://basecamp.com/gettingreal/getting-real.pdf
+- Loudjet.com
