@@ -1,1 +1,2 @@
 - https://www.ldeming.com/longevityfaq
+- https://basecamp.com/shapeup/shape-up.pdf
