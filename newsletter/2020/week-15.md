@@ -1,3 +1,7 @@
 - https://www.ldeming.com/longevityfaq
 - https://basecamp.com/shapeup/shape-up.pdf
 - https://github.com/trekhleb/javascript-algorithms
+- https://github.com/trekhleb/nodejs-master-class
+- https://github.com/trekhleb/promote-your-next-startup
+- https://github.com/trekhleb/angular-library-seed
+- https://github.com/trekhleb/state-of-the-art-shitcode
