@@ -5,3 +5,4 @@
 - https://github.com/trekhleb/promote-your-next-startup
 - https://github.com/trekhleb/angular-library-seed
 - https://github.com/trekhleb/state-of-the-art-shitcode
+- https://www.longevity.vc/
