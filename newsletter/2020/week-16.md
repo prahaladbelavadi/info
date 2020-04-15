@@ -7,3 +7,8 @@
   - https://privacy.com/
   - https://developer.privacy.com/docs#introduction
   - https://repl.it/site/jobs
+ 
+## 
+- Justin.tv
+- https://en.wikipedia.org/wiki/Lifestreaming#Lifestream_websites
+- 
