@@ -88,3 +88,5 @@ I do understand that an hour of their time is valued differently than I choose t
 - https://madebysid.com/
 - https://sujayhg.com/blog/
 - Ryan @ Producthunt.com
+- http://aza.wtf/ Aza Raskin
+- Ian Spalter http://www.ianspalter.com/
