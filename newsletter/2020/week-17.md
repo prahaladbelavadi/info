@@ -8,3 +8,6 @@
 - https://youtu.be/Up9M_pP67D0 : Peter Norvig
 - https://en.wikipedia.org/wiki/Douglas_Engelbart
 - https://www.youtube.com/watch?v=luvthTjC0OI : ALex winter on privacy
+- helpwithcovid.com
+- https://www.amazon.com/Startup-Opportunities-Know-When-Quit-ebook/dp/B06Y16VJ4L
+- https://chrissacca.com/an-email-i-will-never-open/
