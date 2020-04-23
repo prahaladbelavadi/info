@@ -15,3 +15,5 @@
 - Lowercasecapital.com  
 - https://tim.blog/2015/05/30/chris-sacca/
 - https://lowercasecapital.com/2015/07/20/you-have-a-deal/
+- https://chrissacca.com/hanging-up-my-spurs/
+- https://chrissacca.com/media/how-not-to-pitch-a-billionaire/
