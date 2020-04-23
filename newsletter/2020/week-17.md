@@ -4,3 +4,4 @@
 - https://jamesg.app/manual
 - https://www.beondeck.com/
 - https://stripe-payments-demo.appspot.com/
+- https://medium.com/@thenakedpoet2/the-pandemic-hit-i-built-a-business-with-ed-latimore-heres-how-a00b7fcbead7
