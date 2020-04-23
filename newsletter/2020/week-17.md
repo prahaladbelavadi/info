@@ -7,3 +7,4 @@
 - https://medium.com/@thenakedpoet2/the-pandemic-hit-i-built-a-business-with-ed-latimore-heres-how-a00b7fcbead7
 - https://youtu.be/Up9M_pP67D0 : Peter Norvig
 - https://en.wikipedia.org/wiki/Douglas_Engelbart
+- https://www.youtube.com/watch?v=luvthTjC0OI : ALex winter on privacy
