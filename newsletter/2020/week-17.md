@@ -13,3 +13,5 @@
 - https://chrissacca.com/an-email-i-will-never-open/
 - https://www.usatoday.com/story/college/2017/02/09/how-i-became-a-billionaire-chris-sacca/37427097/
 - Lowercasecapital.com  
+- https://tim.blog/2015/05/30/chris-sacca/
+- https://lowercasecapital.com/2015/07/20/you-have-a-deal/
