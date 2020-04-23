@@ -5,3 +5,5 @@
 - https://www.beondeck.com/
 - https://stripe-payments-demo.appspot.com/
 - https://medium.com/@thenakedpoet2/the-pandemic-hit-i-built-a-business-with-ed-latimore-heres-how-a00b7fcbead7
+- https://youtu.be/Up9M_pP67D0 : Peter Norvig
+- https://en.wikipedia.org/wiki/Douglas_Engelbart
