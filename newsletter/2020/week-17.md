@@ -11,3 +11,5 @@
 - helpwithcovid.com
 - https://www.amazon.com/Startup-Opportunities-Know-When-Quit-ebook/dp/B06Y16VJ4L
 - https://chrissacca.com/an-email-i-will-never-open/
+- https://www.usatoday.com/story/college/2017/02/09/how-i-became-a-billionaire-chris-sacca/37427097/
+- Lowercasecapital.com  
