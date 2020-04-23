@@ -1,1 +1,6 @@
 - https://www.youtube.com/watch?v=14ztxmI80nI Aza Raskin's dad's last gift
+- https://nesslabs.com/personal-user-manual
+- https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/
+- https://jamesg.app/manual
+- https://www.beondeck.com/
+- https://stripe-payments-demo.appspot.com/
