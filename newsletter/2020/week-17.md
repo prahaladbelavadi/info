@@ -18,3 +18,5 @@
 - https://chrissacca.com/hanging-up-my-spurs/
 - https://chrissacca.com/media/how-not-to-pitch-a-billionaire/
 - https://www.gatesnotes.com/Health/Pandemic-Innovation?WT.mc_id=20200423060000_Pandemic-Innovation_BG-EM_&WT.tsrc=BGEM
+- https://www.atrium.co/blog/three-stories/
+- Yesterday: https://www.youtube.com/watch?v=lHGANkJnwmA Song
