@@ -1,0 +1,3 @@
+- https://clubhouse.io/
+- https://telnyx.com/
+- https://developers.telnyx.com/docs/v1/numbers/quickstarts/portal-setup
