@@ -2,3 +2,4 @@
 - https://telnyx.com/
 - https://developers.telnyx.com/docs/v1/numbers/quickstarts/portal-setup
 - https://www.vindhyac.com/posts/clubhouse-for-india/?no-cache=1
+- https://courses.afteracademy.com/
