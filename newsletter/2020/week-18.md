@@ -4,3 +4,4 @@
 - https://www.vindhyac.com/posts/clubhouse-for-india/?no-cache=1
 - https://courses.afteracademy.com/
 - https://github.com/afteracademy/nodejs-backend-architecture-typescript
+- https://twitter.com/paigefinnn/status/1255208492312358912
