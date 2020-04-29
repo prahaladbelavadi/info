@@ -5,3 +5,4 @@
 - https://courses.afteracademy.com/
 - https://github.com/afteracademy/nodejs-backend-architecture-typescript
 - https://twitter.com/paigefinnn/status/1255208492312358912
+- startupstarter.co
