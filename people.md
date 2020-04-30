@@ -91,3 +91,4 @@ I do understand that an hour of their time is valued differently than I choose t
 - http://aza.wtf/ Aza Raskin
 - Ian Spalter http://www.ianspalter.com/
 - Ben Nadel : http://www.bennadel.com
+- CSU Wildcat Daniel: http://www.backalleycoder.com/about/
