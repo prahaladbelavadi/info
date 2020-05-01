@@ -9,3 +9,10 @@
 - https://saassessions.com/
 - https://github.com/bennadel/JavaScript-Demos
 - http://www.backalleycoder.com/2018/01/25/identity-is-the-dark-matter-energy-of-our-world/#more-206
+- https://en.wikipedia.org/wiki/David_M._Kelley
+- https://www.ideo.com/people/david-kelley
+- Freakonomics Podcasts
+- David Kelley Ted Talk https://www.youtube.com/watch?v=16p9YRF0l-g
+- https://www.creativeconfidence.com/
+- https://www.youtube.com/watch?v=Mtjatz9r-Vc Guy Kawasaki
+- https://github.com/github/personal-website
