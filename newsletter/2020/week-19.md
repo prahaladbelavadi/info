@@ -1,0 +1,2 @@
+- https://blog.pragmaticengineer.com/the-product-minded-engineer/
+- Ethanography
