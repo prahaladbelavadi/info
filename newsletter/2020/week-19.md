@@ -1,2 +1,3 @@
 - https://blog.pragmaticengineer.com/the-product-minded-engineer/
 - Ethanography
+- https://keithweaver.ca/lessons
