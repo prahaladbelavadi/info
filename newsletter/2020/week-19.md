@@ -1,3 +1,5 @@
 - https://blog.pragmaticengineer.com/the-product-minded-engineer/
 - Ethanography
 - https://keithweaver.ca/lessons
+- https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
+- https://stackoverflow.com/questions/56013874/how-to-pass-environment-variables-from-a-file-to-a-node-command
