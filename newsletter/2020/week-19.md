@@ -3,3 +3,17 @@
 - https://keithweaver.ca/lessons
 - https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
 - https://stackoverflow.com/questions/56013874/how-to-pass-environment-variables-from-a-file-to-a-node-command
+- https://twitter.com/mtliendo/status/1258076359940808705/photo/1 : APIs
+- https://email-templates.js.org/#/
+- https://lad.js.org/#/
+- https://github.com/forwardemail/preview-email
+- https://github.com/forwardemail/email-templates
+- https://www.foaas.com/
+- https://crontab.guru/every-1-hour
+- https://icanhazdadjoke.com/
+- https://icanhazdadjoke.com/api
+- https://opentdb.com/
+- https://www.petfinder.com/developers/api-docs
+- https://threadreaderapp.com/thread/1258052549246140416.html : Fun apis
+- https://picsum.photos/
+- https://twitter.com/mtliendo/status/1258076359940808705/photo/1
