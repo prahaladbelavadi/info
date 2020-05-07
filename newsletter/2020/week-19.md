@@ -14,6 +14,12 @@
 - https://icanhazdadjoke.com/api
 - https://opentdb.com/
 - https://www.petfinder.com/developers/api-docs
-- https://threadreaderapp.com/thread/1258052549246140416.html : Fun apis
+- https://threadreaderapp.com/thread/1258052549246140416.html : Marketing tips
 - https://picsum.photos/
-- https://twitter.com/mtliendo/status/1258076359940808705/photo/1
+- https://twitter.com/mtliendo/status/1258076359940808705/photo/1 Fun apis
+- https://developer.github.com/apps/building-oauth-apps/
+- https://www.udemy.com/developers/affiliate/
+- Cowfindtheinvisiblecow.com
+- https://github.com/public-apis/public-apis
+- https://twitter.com/nixcraft/status/1258242278151163904?s=20 Meme
+- Story on Bootstrapping a company https://twitter.com/rohangilkes/status/1256264500501594112
