@@ -8,7 +8,7 @@
 - https://lad.js.org/#/
 - https://github.com/forwardemail/preview-email
 - https://github.com/forwardemail/email-templates
-- https://www.foaas.com/
+- https://www.foaas.com/ Fuck off as a service
 - https://crontab.guru/every-1-hour
 - https://icanhazdadjoke.com/
 - https://icanhazdadjoke.com/api
