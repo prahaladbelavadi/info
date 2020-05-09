@@ -24,3 +24,6 @@
 - https://twitter.com/nixcraft/status/1258242278151163904?s=20 Meme
 - Story on Bootstrapping a company https://twitter.com/rohangilkes/status/1256264500501594112
 - https://www.madewithangular.com/categories/google/
+- https://flaviocopes.com/blog-seo/
+- https://thejsbootcamp.com/
+- https://flaviocopes.com/page/ebooks/
