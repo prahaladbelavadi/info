@@ -30,3 +30,12 @@
 - https://ycombinator.chibicode.com/
 - https://www.npmjs.com/package/styled-jsx
 - https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html#installation
+- https://www.welcometothejungle.com/en/articles/btc-interview-tim-neutkens-next
+- https://en.wikipedia.org/wiki/Trolley_problem
+- https://medium.com/@cillizza/on-dad-dfa6943b02c7
+- 
+
+`In the short run, it is better to be right in a boring way than wrong in an interesting way.
+
+In the long run, it is better to be wrong in an interesting way than right in a boring way.
+` -- Taylor Pearson https://twitter.com/TaylorPearsonMe/status/1259168077167673345
