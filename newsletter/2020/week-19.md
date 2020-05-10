@@ -33,7 +33,8 @@
 - https://www.welcometothejungle.com/en/articles/btc-interview-tim-neutkens-next
 - https://en.wikipedia.org/wiki/Trolley_problem
 - https://medium.com/@cillizza/on-dad-dfa6943b02c7
-- 
+- https://browndroppings.co/the-weak-link
+- https://whatshouldicode.netlify.app/
 
 `In the short run, it is better to be right in a boring way than wrong in an interesting way.
 
