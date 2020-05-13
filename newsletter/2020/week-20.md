@@ -1,3 +1,14 @@
 - https://www.w3.org/WAI/tutorials/forms/labels/
 - https://reactjs.org/docs/accessibility.html
 - https://invertedpassion.com/twitter-threads/
+- Michael Jordan: The Life Book
+- https://en.wikipedia.org/wiki/Yahoo!_GeoCities
+- Should should start something where I can share information I come across and collate
+- https://a16z.com/crypto-startup-school/
+- Release of crypto startup school on twitter: https://twitter.com/a16z/status/1260663716229472256
+- catalins.tech
+- The Last Dance : Jordan's life documentary
+- https://www.eightsleep.com/who-we-are/
+- https://www.eightsleep.com/product/pod/
+- matteo franceschetti
+- Emma Arnold Comdey: https://www.youtube.com/watch?v=qk5ybtN9n3o
