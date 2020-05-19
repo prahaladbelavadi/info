@@ -1,2 +1,8 @@
 - FontLab App
-- There are other apps for font on the site
+- TransType 4
+- DTL OTMaster 7.9
+- TypeTool 3
+- Fontographer
+- Font lab studio
+- Bitfonter
+- Roam Research cult 
