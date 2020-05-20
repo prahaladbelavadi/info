@@ -7,3 +7,9 @@
 - Bitfonter
 - Roam Research cult 
 - https://www.calligraphr.com/
+- https://atom-morgan.github.io/
+- https://atom-morgan.github.io/javascript
+- https://elizabethyin.com/2020/05/20/why-vcs-are-obsessed-with-unicorn-companies-hint-lets-do-the-math-together/?utm_source=sendfox&utm_medium=email&utm_campaign=why-vcs-are-obsessed-with-unicorn-companies-and-a-video
+- https://elizabethyin.com/2019/06/07/how-do-vcs-make-money/
+- https://elizabethyin.com/2019/02/14/learnings-from-a-6x-angel-investment-portfolio/
+- Books on privacy, Consumer law and contract law
