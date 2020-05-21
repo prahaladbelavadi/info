@@ -13,3 +13,20 @@
 - https://elizabethyin.com/2019/06/07/how-do-vcs-make-money/
 - https://elizabethyin.com/2019/02/14/learnings-from-a-6x-angel-investment-portfolio/
 - Books on privacy, Consumer law and contract law
+- https://hackclub.com/
+- https://www.crunchbase.com/person/david-and-daniil-liberman
+- The liberman siblings: https://www.nytimes.com/2018/06/14/movies/snapchat-3d-bitmoji-animation-augmented-reality.html
+- https://www.linkedin.com/in/daliberman
+- https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems
+- https://hackclub.com/bank/
+- https://bank.hackclub.com/hq
+- https://frank.ly/
+- https://grant.frank.ly/
+- https://turner.substack.com/p/the-rise-of-tiktok-and-understanding
+- https://linear.app/changelog
+- https://muzzleapp.com/
+- https://www.producthunt.com/posts/pitch-decks-from-top-startups
+- linear.app
+- https://help.producthunt.com/en/articles/479557-how-to-post-a-product
+- https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399
+- https://github.com/rxhanson/Rectangle
