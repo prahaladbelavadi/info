@@ -40,3 +40,4 @@
 - https://github.com/PacktPublishing/Angular-Projects
 - Angular Projects - Zama Khan Mohammed
 - Angular PWA
+- https://connectom.substack.com/p/connectom-the-book Thibaut
