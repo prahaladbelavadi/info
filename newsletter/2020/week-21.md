@@ -30,3 +30,13 @@
 - https://help.producthunt.com/en/articles/479557-how-to-post-a-product
 - https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399
 - https://github.com/rxhanson/Rectangle
+- https://www.ning.com
+- https://cofounderslab.com/
+- Font ligatures
+- https://bulma.io/documentation/
+- https://www.fonts.com/content/learning/fontology/level-3/signs-and-symbols/ligatures-1
+- https://www.fonts.com/content/learning/fontology
+- https://github.com/source-foundry/Hack
+- https://github.com/PacktPublishing/Angular-Projects
+- Angular Projects - Zama Khan Mohammed
+- Angular PWA
