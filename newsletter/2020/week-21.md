@@ -44,3 +44,9 @@
 - https://www.goodbooks.io/people/naval-ravikant
 - https://www.youtube.com/watch?v=1WKlWMUaUxY Say no Without guilt Naval
 - https://nav.al/
+- mockable.io
+- https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli
+- idontdocoffee.com
+- http://ropr.ryanroper.com/
+- Nicolo Machiavelli
+- http://ryanroper.com/rmroper.pdf
