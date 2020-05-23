@@ -43,3 +43,4 @@
 - https://connectom.substack.com/p/connectom-the-book Thibaut
 - https://www.goodbooks.io/people/naval-ravikant
 - https://www.youtube.com/watch?v=1WKlWMUaUxY Say no Without guilt Naval
+- https://nav.al/
