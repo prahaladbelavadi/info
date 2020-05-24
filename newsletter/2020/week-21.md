@@ -52,3 +52,5 @@
 - http://ryanroper.com/rmroper.pdf
 - https://en.wikipedia.org/wiki/Grand_Central_Terminal
 - https://en.wikipedia.org/wiki/Malorie_Blackman
+- https://swiperjs.com/
+- https://simpleparallax.com/
