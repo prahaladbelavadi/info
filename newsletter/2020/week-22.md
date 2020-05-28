@@ -1,1 +1,4 @@
 - https://en.wikipedia.org/wiki/Clinkle
+- https://addyosmani.com/blog/using-npm-offline/
+- https://www.npmjs.com/package/local-npm
+- https://github.com/pouchdb/pouchdb-server
