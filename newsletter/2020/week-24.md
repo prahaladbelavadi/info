@@ -1,1 +1,4 @@
 - https://press.stripe.com/
+- https://twitter.com/spadjay/status/1270635027580108801?s=20
+- https://coffeetimefinance.com/
+- Zoho : Sridhar Vembu
