@@ -2,3 +2,4 @@
 - https://twitter.com/spadjay/status/1270635027580108801?s=20
 - https://coffeetimefinance.com/
 - Zoho : Sridhar Vembu
+- https://medium.com/authority-magazine/zoho-ceo-sridhar-vembu-in-the-u-s-d00647592aa8
