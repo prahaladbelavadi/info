@@ -4,3 +4,7 @@
 - Zoho : Sridhar Vembu
 - https://medium.com/authority-magazine/zoho-ceo-sridhar-vembu-in-the-u-s-d00647592aa8
 - http://paulgraham.com/hs.html High school paul graham speech Aaron Swatz read drafts of this
+- https://kevq.uk/how-much-does-it-cost-to-run-this-blog/
+- kevq.uk
+- https://read.write.as/community
+- read.write.as
