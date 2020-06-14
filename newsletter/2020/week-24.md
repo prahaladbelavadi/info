@@ -8,3 +8,6 @@
 - kevq.uk
 - https://read.write.as/community
 - read.write.as
+- https://kevq.uk/is-dark-mode-such-a-good-idea/
+- https://www.dynamodbguide.com/what-is-dynamo-db
+- https://100daystooffload.com/
