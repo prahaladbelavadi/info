@@ -1,2 +1,4 @@
 - https://medium.com/swlh/returning-to-india-a-decision-framework-e685ce067304
 - In the past two weeks, built register.quarantinesquad.in and a whatsapp bot to support covid operations 
+- https://www.levels.fyi/Salaries/Software-Engineer/India/
+- https://comehomeandbuild.com/about/
