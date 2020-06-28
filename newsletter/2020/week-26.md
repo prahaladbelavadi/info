@@ -4,3 +4,5 @@
 - https://comehomeandbuild.com/about/
 - https://aparanjape.wordpress.com/about/
 - http://www.ascentcapital.in/
+- http://blog.vjeux.com/
+- http://cpojer.net/
