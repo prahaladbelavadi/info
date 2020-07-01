@@ -1,1 +1,8 @@
 - https://bjk5.com/post/60760280107/shipping-beats-perfection-explained Khan Academy
+- Kishore and Gagan Biyani
+- Sprig Shutdown because of Uber eats
+- Mukesh Ambani to buy Big bazar and group; Kishore Biyani runs it.
+- https://www.khanacademy.org/careers/interns/software-dev
+- https://hubot.github.com/
+- https://github.com/Khan/culture-cow : Culture Cow
+- http://fraustollc.com/blog/shit_code/
