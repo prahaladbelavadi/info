@@ -24,11 +24,13 @@
   
   - Unexplored DRM: 
     
-    Web based access is controlled using JWT tokens and sessions. Converting webpages to PDF will allow industries to provide offline call to actions with necessary authentication which reduces friction in onboarding from an offline to an online medium. Packaging web based content as PDF will allow for greater versatility.
+    Web based access is controlled using JWT tokens and sessions. Converting webpages to PDF will allow industries to provide offline call to actions with necessary authentication which reduces friction in onboarding from an offline to an online medium. Packaging web based content as PDF will allow for greater versatility with respect to the set of devices it can support. Kindle, while it has browser support is a pain to use internet with, it would make much more sense to download a pdf version of whatever I'm trying to read and load it on instead of using it for internet.
     
 
   - Prisons and schools: 
   
     Prisoners and schools have limited access to the internet. They can provide what would otherwise be online content with minimum overhead to the students and prisoners for upskilling. [1](https://forum.freecodecamp.org/t/teach-prisoners-how-to-code-with-freecodecamp/47513/6) [2](https://forum.freecodecamp.org/t/freecodecamp-offline-capabilities/105956)
     
+  - References: 
+      - https://en.wikibooks.org/wiki/Main_Page
     
