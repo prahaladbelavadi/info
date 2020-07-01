@@ -1,0 +1,1 @@
+- https://bjk5.com/post/60760280107/shipping-beats-perfection-explained Khan Academy
