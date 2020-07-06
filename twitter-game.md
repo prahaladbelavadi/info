@@ -37,3 +37,11 @@ Screw signalling. I think if I could be myself on the internet, and people come 
 
 In this one tiny life I have, do the number of likes, replies or tweets that I have of twitter really matter so much ? Probably not. Tech is mostly a means to an end and not the end itself. In that sense, tech is te means to meet more people and nothing more; signalling is hampering the process by adding undue pressure on who I should portray myself to be and what standards I uphold myself to.
 
+
+--------------------------------------------------------------------------
+Thought process was kindled by Grab chai newsletter
+Some links that were sent in the newsletter that pushed this thought process are:
+
+- https://speakerdeck.com/nikhilkrishnan/why-twitter-is-dope-and-how-to-use-it
+- https://medium.com/startup-grind/twitter-is-your-resume-finding-it-difficult-to-set-up-your-interest-graph-well-no-shit-ec80d54ec3ef
+- https://www.grabchai.online/
