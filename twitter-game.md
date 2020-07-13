@@ -53,4 +53,4 @@ Some links that were sent in the newsletter that pushed this thought process are
 
 ----------------------------
 
-Correction: I'm still chicken about what people think; I want to reply to two threads on twitter rn: One on dating and other on chocolate recommendations; And I still can't bring myself to do it; This might not be a good idea after all
+Correction: I'm still chicken about what people think; I want to reply to two threads on twitter rn: One on dating and other on chocolate recommendations; And I still can't bring myself to do it; This might not be a good idea after all; And I have 352 Followers
