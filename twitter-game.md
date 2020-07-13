@@ -45,3 +45,12 @@ Some links that were sent in the newsletter that pushed this thought process are
 - https://speakerdeck.com/nikhilkrishnan/why-twitter-is-dope-and-how-to-use-it
 - https://medium.com/startup-grind/twitter-is-your-resume-finding-it-difficult-to-set-up-your-interest-graph-well-no-shit-ec80d54ec3ef
 - https://www.grabchai.online/
+
+
+
+
+
+
+----------------------------
+
+Correction: I'm still chicken about what people think; I want to reply to two threads on twitter rn: One on dating and other on chocolate recommendations; And I still can't bring myself to do it; This might not be a good idea after all
