@@ -45,3 +45,7 @@ Palak Zatakia started sending whatsapp newsletters like 2 years ago
   - Tracking number of people entering and exiting the malls
   - Weather app
 
+## Exporting tabs
+- A bunch of really cool stuff and zoom acquires keybase: https://www.one-tab.com/page/ajOteOQpTcy0uXgGjHwShw
+- How to get .edu domain: https://www.one-tab.com/page/Vt_tQvSCRmiJhiopIU5Sxg
+- About bounce https://www.one-tab.com/page/Ok7YZW7GTmuM68CW_u3X_w
