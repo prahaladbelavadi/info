@@ -29,6 +29,7 @@
 - https://reactnative.dev/docs/signed-apk-android.html
 - Lawrence Lessig
 - David Haig
+- Annual General Meeting  Reliance: https://www.youtube.com/watch?v=-Cbf2EOVocQ
 
 ## Behaviour change
 
