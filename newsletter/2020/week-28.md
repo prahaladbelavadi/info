@@ -46,6 +46,7 @@ Palak Zatakia started sending whatsapp newsletters like 2 years ago
   - Weather app
 
 ## Exporting tabs
+- Ribbon farm by @vgr and ant design patterns with react native : https://www.one-tab.com/page/BvqcqaPeSWq3J0ZI7B3RHA
 - A bunch of really cool stuff and zoom acquires keybase: https://www.one-tab.com/page/ajOteOQpTcy0uXgGjHwShw
 - How to get .edu domain: https://www.one-tab.com/page/Vt_tQvSCRmiJhiopIU5Sxg
 - About bounce https://www.one-tab.com/page/Ok7YZW7GTmuM68CW_u3X_w
