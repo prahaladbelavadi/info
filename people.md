@@ -94,3 +94,4 @@ I do understand that an hour of their time is valued differently than I choose t
 - CSU Wildcat Daniel: http://www.backalleycoder.com/about/
 - https://digitaltumbleweed.com/
 - Tatu Ylönen: https://ylonen.org/
+- https://sharif.io/bookshelf/
