@@ -1,1 +1,2 @@
 - https://www.longevity.vc/buildwithus
+- https://www.beondeck.com/hire
