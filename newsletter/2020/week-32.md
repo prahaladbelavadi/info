@@ -1,0 +1,14 @@
+- https://goods.substack.com/
+- https://gikken.co/tokens/
+- https://www.crunchbase.com/acquisition/atlassian-acquires-trello--f2333933#section-overview
+- Crunchbase was acquired for 425 Million USD and Freecharge was acquired by Snap deal for 400 Million USD
+- https://tom.preston-werner.com/
+- https://www.crunchbase.com/organization/freecharge
+- Freecharge raised funding for 177.6 M and Trello raised 10.3 M
+- https://www.crunchbase.com/organization/trello
+- https://leonardofed.io/
+- https://leonardofed.io/blog/caesar.html
+- https://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html
+- https://tom.preston-werner.com/
+- https://web.archive.org/web/20140916011609/http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based-code
+- https://leonardofed.io/blog/startups-hiring.html
