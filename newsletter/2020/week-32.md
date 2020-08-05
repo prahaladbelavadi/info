@@ -12,3 +12,4 @@
 - https://tom.preston-werner.com/
 - https://web.archive.org/web/20140916011609/http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based-code
 - https://leonardofed.io/blog/startups-hiring.html
+- https://nadh.in/contact/
