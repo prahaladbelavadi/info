@@ -1,0 +1,2 @@
+- https://simplanations.substack.com/p/2-how-vc-works-a-beginners-guide
+- https://simplanations.substack.com/p/9-what-makes-jio-different
