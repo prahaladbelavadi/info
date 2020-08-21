@@ -1,3 +1,4 @@
 - https://whydoweinterface.com/
 - The exotic marigold hotel : https://www.imdb.com/title/tt1412386/
 - https://www.notion.so/Fundraising-Database-756488b2e5934569905e74824ff8b021
+- https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/
