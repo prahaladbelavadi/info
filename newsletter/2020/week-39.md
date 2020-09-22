@@ -1,0 +1,2 @@
+- https://barehands.substack.com/p/how-to-take-meeting-notes
+- https://cardvcard.com
