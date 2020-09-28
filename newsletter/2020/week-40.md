@@ -1,0 +1,1 @@
+- https://www.youtube.com/playlist?list=PL0R9jy9LZw_35KimLiSIOH0YdNtCeYcRe : Ham course on Youtube
