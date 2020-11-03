@@ -1,1 +1,1 @@
-- https://www.veed.io/
+- https://www.veed.io/ - Web video maker
